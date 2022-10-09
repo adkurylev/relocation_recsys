@@ -13,4 +13,13 @@ Sometimes it is difficult for people to choose one thing from several options. E
 *description of user experience*
 
 ## Data used
-*datasets description and links*
+# Numbeo data
+![numbeo_icon_1B3B6F](https://user-images.githubusercontent.com/33491221/194776467-3697d807-1260-45d4-a049-18732927274e.svg)
+![numbeo_text_1B3B6F](https://user-images.githubusercontent.com/33491221/194776636-e66bfd6a-0e0c-443c-bc7a-ec5e269d1755.svg)
+
+Link - https://www.numbeo.com
+
+Site numbeo.com provides crowd-sourced information on the key parameters of life in the cities of the world. For the project, parameters such as cost of living, cost of housing, quality of life, as well as data on crime, health, pollution and traffic were parsed. A more detailed description of the data and the methodology for collecting them can be found on the website. The method of parsing the received data is given in the notebook "numbeo_parser.ipynb".
+
+# WHO data
+
