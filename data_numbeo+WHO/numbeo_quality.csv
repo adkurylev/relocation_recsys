@@ -1,0 +1,2390 @@
+,CountryName,CityName,Quality of Life Index:
+0,Afghanistan,Kabul,?
+1,Aland Islands,Inter,?
+2,Aland Islands,Mariehamn,200.18
+3,Albania,Durres,97.14
+4,Albania,Elbasan,?
+5,Albania,Gjirokaster,?
+6,Albania,Permet,?
+7,Albania,Shkoder,152.12
+8,Albania,Tirana,90.80
+9,Algeria,Algiers,87.36
+10,Algeria,Constantine,103.99
+11,Algeria,Hassi Messaoud,?
+12,Algeria,Jijel,?
+13,Algeria,Oran,69.12
+14,Algeria,Setif,?
+15,Algeria,Skikda,?
+16,Algeria,Tebessa,?
+17,Algeria,Tizi-ouzou,?
+18,Algeria,Tlemcen,82.56
+19,Andorra,Andorra la Vella,?
+20,Angola,Luanda,59.27
+21,Argentina,Buenos Aires,100.81
+22,Argentina,Cordoba,120.88
+23,Argentina,La Plata,?
+24,Argentina,Lomas de Zamora,?
+25,Argentina,Mar del Plata,130.17
+26,Argentina,Mendoza,131.56
+27,Argentina,Rosario,?
+28,Argentina,Salta,?
+29,Argentina,San Isidro,?
+30,Argentina,Tucuman,?
+31,Armenia,Yerevan,119.38
+32,Aruba,Aruba,?
+33,Australia,Adelaide,214.33
+34,Australia,Albury,?
+35,Australia,Ballarat,?
+36,Australia,Bathurst,?
+37,Australia,Bendigo,?
+38,Australia,Blacktown,?
+39,Australia,Brisbane,202.58
+40,Australia,Buderim,?
+41,Australia,Bundaberg,?
+42,Australia,Cairns,161.66
+43,Australia,Canberra,227.82
+44,Australia,Coffs Harbour,?
+45,Australia,Darwin,193.91
+46,Australia,Dee Why,?
+47,Australia,Dubbo,?
+48,Australia,Frankston,?
+49,Australia,Geelong,170.90
+50,Australia,Geraldton,?
+51,Australia,Gold Coast,193.09
+52,Australia,Gosford,?
+53,Australia,Hobart,210.96
+54,Australia,Hoppers Crossing,?
+55,Australia,Ipswich,?
+56,Australia,Launceston,?
+57,Australia,Logan City,?
+58,Australia,Melbourne,190.67
+59,Australia,Newcastle,181.31
+60,Australia,"Orange, NSW",?
+61,Australia,Perth,202.56
+62,Australia,Port Macquarie,?
+63,Australia,Rockhampton,?
+64,Australia,Shepparton,?
+65,Australia,South Yarra,?
+66,Australia,Sunshine Coast,?
+67,Australia,Surfers Paradise. Gold Coast. Queensland.,112.17
+68,Australia,Sydney,190.38
+69,Australia,Toowoomba,?
+70,Australia,Townsville,?
+71,Australia,Wangaratta,?
+72,Australia,Wanneroo,?
+73,Australia,Wollongong,?
+74,Austria,Baden,?
+75,Austria,Dornbirn,?
+76,Austria,Graz,172.80
+77,Austria,Innsbruck,171.19
+78,Austria,Klagenfurt,158.13
+79,Austria,Linz,178.71
+80,Austria,Salzburg,181.02
+81,Austria,Steyr,?
+82,Austria,Vienna,190.17
+83,Austria,Villach,172.05
+84,Azerbaijan,Baku,112.93
+85,Bahamas,Freeport,?
+86,Bahamas,Nassau,114.05
+87,Bahrain,Al Muharraq,?
+88,Bahrain,Juffair,?
+89,Bahrain,Manama,158.86
+90,Bahrain,Riffa,?
+91,Bangladesh,Chittagong,?
+92,Bangladesh,Dhaka,60.11
+93,Bangladesh,Khulna,?
+94,Bangladesh,Sylhet,?
+95,Barbados,Bridgetown,?
+96,Belarus,Brest,113.64
+97,Belarus,Gomel,?
+98,Belarus,Hrodna,?
+99,Belarus,Minsk,115.48
+100,Belarus,Mogilev,123.03
+101,Belarus,"Viciebsk (Vicebsk, Vitebsk)",?
+102,Belgium,Antwerp,159.86
+103,Belgium,Brugge,202.97
+104,Belgium,Brussels,148.18
+105,Belgium,Charleroi,?
+106,Belgium,Gent,170.80
+107,Belgium,Hasselt,?
+108,Belgium,Kortrijk,?
+109,Belgium,Leuven,187.23
+110,Belgium,Liege,152.22
+111,Belgium,Mechelen,?
+112,Belgium,Mons,?
+113,Belgium,Namur,?
+114,Belgium,Sint-Niklaas,?
+115,Belgium,Tournai,?
+116,Belgium,Vilvoorde,?
+117,Belize,Belize City,126.32
+118,Belize,Belmopan,?
+119,Benin,Cotonou,?
+120,Bermuda,Hamilton,174.42
+121,Bhutan,Thimphu,137.58
+122,Bolivia,Cochabamba,104.61
+123,Bolivia,La Paz,79.83
+124,Bolivia,Santa Cruz,108.28
+125,Bosnia And Herzegovina,Banja Luka,133.13
+126,Bosnia And Herzegovina,Mostar,159.58
+127,Bosnia And Herzegovina,Prijedor,?
+128,Bosnia And Herzegovina,Sarajevo,124.62
+129,Bosnia And Herzegovina,Trebinje,194.46
+130,Bosnia And Herzegovina,Tuzla,109.19
+131,Botswana,Gaborone,25.48
+132,Brazil,Americana,?
+133,Brazil,Aracaju,?
+134,Brazil,Araraquara,?
+135,Brazil,Balneario Camboriu,?
+136,Brazil,Barueri,?
+137,Brazil,Bauru,?
+138,Brazil,Belem,98.24
+139,Brazil,Belo Horizonte,107.01
+140,Brazil,Blumenau - Santa Catarina,?
+141,Brazil,Boa Vista,?
+142,Brazil,Brasilia,135.80
+143,Brazil,Campinas,133.10
+144,Brazil,Campo Grande,137.09
+145,Brazil,Campos dos Goytacazes,?
+146,Brazil,Canoas,?
+147,Brazil,Caxias do Sul,?
+148,Brazil,Cuiaba,?
+149,Brazil,Curitiba,140.12
+150,Brazil,Florianopolis,124.86
+151,Brazil,Fortaleza,82.81
+152,Brazil,Foz do Iguaçu,?
+153,Brazil,Goiania,128.36
+154,Brazil,Gramado,?
+155,Brazil,Guarulhos,97.76
+156,Brazil,Indaiatuba,?
+157,Brazil,Itajai,?
+158,Brazil,"Itajubá, MG",?
+159,Brazil,Itapetininga,?
+160,Brazil,Joao Pessoa,126.15
+161,Brazil,Joinville,127.01
+162,Brazil,Juiz de Fora,120.47
+163,Brazil,Jundiai,?
+164,Brazil,Londrina,?
+165,Brazil,Maceio - Alagoas,?
+166,Brazil,Manaus,?
+167,Brazil,Maringa,?
+168,Brazil,Mogi das Cruzes,?
+169,Brazil,Natal,125.14
+170,Brazil,Niteroi,?
+171,Brazil,Nova Friburgo,?
+172,Brazil,Osasco,74.96
+173,Brazil,Passo Fundo,?
+174,Brazil,Pelotas,?
+175,Brazil,Petropolis,?
+176,Brazil,Piracicaba,?
+177,Brazil,Ponta Grossa,122.39
+178,Brazil,Porto Alegre,112.52
+179,Brazil,Pouso Alegre,?
+180,Brazil,Recife,87.01
+181,Brazil,Ribeirao Preto,?
+182,Brazil,Rio de Janeiro,70.17
+183,Brazil,Salvador,?
+184,Brazil,Santa Maria,?
+185,Brazil,Santo Andre,?
+186,Brazil,Santos,130.07
+187,Brazil,Sao Bernardo do Campo,?
+188,Brazil,Sao Carlos,142.43
+189,Brazil,Sao Jose dos Campos,154.89
+190,Brazil,Sao Paulo,79.31
+191,Brazil,Serra,?
+192,Brazil,Sorocaba,?
+193,Brazil,Teresina,?
+194,Brazil,Teresopolis,159.44
+195,Brazil,Uberlandia,?
+196,Brazil,Vila Velha,101.27
+197,Brazil,Vitoria,130.72
+198,Brunei,Bandar Seri Begawan,179.78
+199,Bulgaria,Bansko,?
+200,Bulgaria,Blagoevgrad,?
+201,Bulgaria,Burgas,150.90
+202,Bulgaria,Haskovo,?
+203,Bulgaria,Kardzhali,?
+204,Bulgaria,Kyustendil,?
+205,Bulgaria,Pazardzhik,?
+206,Bulgaria,Pleven,?
+207,Bulgaria,Plovdiv,140.14
+208,Bulgaria,Ruse,124.66
+209,Bulgaria,Sliven,?
+210,Bulgaria,Sofia,126.21
+211,Bulgaria,Stara Zagora,?
+212,Bulgaria,Varna,137.94
+213,Bulgaria,Veliko Tarnovo,168.76
+214,Bulgaria,Vratsa,?
+215,Cambodia,Phnom Penh,63.23
+216,Cambodia,Siem Reap,?
+217,Cameroon,Douala,37.01
+218,Cameroon,Yaounde,?
+219,Canada,Abbotsford,152.33
+220,Canada,Airdrie,?
+221,Canada,"Aurora, ON",?
+222,Canada,Barrie,162.89
+223,Canada,Belleville,?
+224,Canada,Brampton,158.58
+225,Canada,"Brandon, MB",?
+226,Canada,Brantford,?
+227,Canada,Burlington,188.11
+228,Canada,Burnaby,185.75
+229,Canada,Calgary,185.69
+230,Canada,Cambridge,?
+231,Canada,Charlottetown,161.60
+232,Canada,Chilliwack,?
+233,Canada,"Comox, BC",?
+234,Canada,Coquitlam,?
+235,Canada,"Cornwall, ON",?
+236,Canada,Courtenay,?
+237,Canada,"Delta, BC",?
+238,Canada,Duncan BC,187.03
+239,Canada,Edmonton,173.74
+240,Canada,"Elliot Lake, ON",?
+241,Canada,Fort McMurray,?
+242,Canada,"Fort St John, BC",?
+243,Canada,Fredericton,?
+244,Canada,Gatineau,?
+245,Canada,Grande Prairie,?
+246,Canada,Guelph,185.62
+247,Canada,Halifax,175.73
+248,Canada,Hamilton,145.01
+249,Canada,"Iqaluit, NU",?
+250,Canada,Kamloops,?
+251,Canada,Kanata,?
+252,Canada,Kelowna,171.33
+253,Canada,Kingston,179.37
+254,Canada,Kitchener,163.43
+255,Canada,"Langley, BC",160.22
+256,Canada,Laval,168.50
+257,Canada,"Lethbridge, AB",146.92
+258,Canada,London,162.05
+259,Canada,Longueuil,?
+260,Canada,Maple Ridge,?
+261,Canada,Markham,178.31
+262,Canada,Medicine Hat,?
+263,Canada,Milton,?
+264,Canada,Mississauga,167.13
+265,Canada,Moncton,167.30
+266,Canada,Montreal,160.71
+267,Canada,"Moose Jaw, SK",?
+268,Canada,"Nanaimo, BC",174.53
+269,Canada,Nelson BC,?
+270,Canada,New Glasgow Nova Scotia,?
+271,Canada,New Westminster,?
+272,Canada,"Newmarket, ON",168.97
+273,Canada,Niagara Falls,?
+274,Canada,North Bay,?
+275,Canada,North Vancouver,?
+276,Canada,Oakville,?
+277,Canada,Okotoks,?
+278,Canada,Oshawa,?
+279,Canada,Ottawa,183.26
+280,Canada,Owen Sound,?
+281,Canada,Parksville,?
+282,Canada,Penticton,?
+283,Canada,Peterborough,?
+284,Canada,"Port Coquitlam, BC",?
+285,Canada,Prince Albert,?
+286,Canada,Prince George,?
+287,Canada,"Prince Rupert, BC",?
+288,Canada,Quebec City,207.07
+289,Canada,Red Deer,160.69
+290,Canada,Regina,172.08
+291,Canada,Revelstoke,?
+292,Canada,Richmond,?
+293,Canada,Richmond Hill,?
+294,Canada,Saguenay,?
+295,Canada,"Saint John, New Brunswick",?
+296,Canada,Sarnia,133.50
+297,Canada,Saskatoon,169.72
+298,Canada,Sault Ste. Marie,?
+299,Canada,Sechelt,?
+300,Canada,Sherbrooke,?
+301,Canada,"Simcoe, ON",?
+302,Canada,"Squamish, BC",?
+303,Canada,"St. Albert, AB",?
+304,Canada,"St. John's, Newfoundland and Labrador",172.70
+305,Canada,St.Catharines,197.11
+306,Canada,"Stratford, ON",?
+307,Canada,Sudbury,159.30
+308,Canada,Surrey,169.01
+309,Canada,"Sydney, NS",?
+310,Canada,Thunder Bay,?
+311,Canada,"Timmins, ON",?
+312,Canada,Toronto,149.88
+313,Canada,"Trois-Rivieres, QC",188.56
+314,Canada,Vancouver,177.88
+315,Canada,Vaughan,148.43
+316,Canada,"Vernon, BC",168.35
+317,Canada,Victoria,191.87
+318,Canada,Waterloo,?
+319,Canada,Welland,?
+320,Canada,Whistler,?
+321,Canada,"Whitby, ON",?
+322,Canada,Whitehorse,?
+323,Canada,Windsor,159.16
+324,Canada,Winnipeg,135.75
+325,Canada,Woodstock,?
+326,Canada,Yellowknife,?
+327,Canada,Yorkton,?
+328,Cayman Islands,George Town,180.22
+329,Chad,N'Djamena,?
+330,Chile,Concepcion,129.25
+331,Chile,La Serena,?
+332,Chile,Puerto Montt,101.15
+333,Chile,Santiago,104.06
+334,Chile,Valparaiso,114.97
+335,Chile,Vina del Mar,152.85
+336,China,Baoji,?
+337,China,Baotou,?
+338,China,Beijing,78.45
+339,China,Changchun,?
+340,China,Changsha,?
+341,China,Chengdu,126.51
+342,China,Chongqing,119.08
+343,China,Dalian,134.04
+344,China,Dongguan,?
+345,China,Foshan,?
+346,China,Fuzhou,143.70
+347,China,Guangzhou,108.53
+348,China,Hangzhou,128.39
+349,China,Hefei,154.88
+350,China,Jinan,?
+351,China,"Kunming, Yunnan",142.17
+352,China,Nanjing,136.64
+353,China,Nanning,?
+354,China,Ningbo,?
+355,China,"Qingdao, Shandong",162.56
+356,China,Shanghai,87.32
+357,China,Shenyang,120.60
+358,China,Shenzhen,113.15
+359,China,Suzhou,108.72
+360,China,Tianjin,97.39
+361,China,Wuhan,?
+362,China,Wuxi,?
+363,China,Xi'an,131.22
+364,China,Xiamen,120.56
+365,China,Zhengzhou,92.48
+366,China,Zhuhai,138.95
+367,Colombia,Armenia,?
+368,Colombia,Barranquilla,104.71
+369,Colombia,Bogota,89.98
+370,Colombia,Bucaramanga,119.82
+371,Colombia,Cali,128.38
+372,Colombia,Cartagena,95.06
+373,Colombia,Ibague,?
+374,Colombia,Manizales,147.07
+375,Colombia,Medellin,124.39
+376,Colombia,Pereira,113.36
+377,Colombia,San Juan de Pasto,?
+378,Colombia,Santa Marta,108.22
+379,Congo,Kinshasa,?
+380,Costa Rica,Alajuela,?
+381,Costa Rica,Cartago,?
+382,Costa Rica,Escazu,?
+383,Costa Rica,Heredia,127.58
+384,Costa Rica,San Jose,117.01
+385,Croatia,Cakovec,?
+386,Croatia,Dubrovnik,158.97
+387,Croatia,Karlovac,?
+388,Croatia,Osijek,184.28
+389,Croatia,Porec,?
+390,Croatia,Pula,174.79
+391,Croatia,Rijeka,167.33
+392,Croatia,Sesvete,?
+393,Croatia,Sibenik,201.58
+394,Croatia,Slavonski Brod,162.50
+395,Croatia,Split,159.33
+396,Croatia,Varazdin,172.64
+397,Croatia,Zadar,169.55
+398,Croatia,Zagreb,159.09
+399,Croatia,Šibenik,201.58
+400,Cuba,Havana,63.63
+401,Curacao,Willemstad,?
+402,Cyprus,Ayia Napa,?
+403,Cyprus,Kyrenia (Girne),?
+404,Cyprus,Larnaca,132.26
+405,Cyprus,Limassol,145.91
+406,Cyprus,Nicosia,147.49
+407,Cyprus,Paphos,174.26
+408,Czech Republic,Brno,160.38
+409,Czech Republic,Caslav,?
+410,Czech Republic,Ceske Budejovice,167.23
+411,Czech Republic,Hradec Kralove,183.48
+412,Czech Republic,Jablonec nad Nisou,?
+413,Czech Republic,Jihlava,155.41
+414,Czech Republic,Kladno,?
+415,Czech Republic,Liberec,196.06
+416,Czech Republic,Mlada Boleslav,158.23
+417,Czech Republic,Olomouc,177.50
+418,Czech Republic,Ostrava,169.68
+419,Czech Republic,Pardubice,164.33
+420,Czech Republic,Plzen,177.21
+421,Czech Republic,Prague,161.82
+422,Czech Republic,Teplice,?
+423,Czech Republic,Usti nad Labem,136.59
+424,Czech Republic,Zlin,?
+425,Denmark,Aalborg,213.31
+426,Denmark,Arhus,196.40
+427,Denmark,Copenhagen,192.85
+428,Denmark,Esbjerg,?
+429,Denmark,Horsens,?
+430,Denmark,Kolding,?
+431,Denmark,Odense,183.69
+432,Denmark,Roskilde,?
+433,Denmark,Svendborg,?
+434,Denmark,Vejle,215.18
+435,Dominican Republic,Punta Cana,?
+436,Dominican Republic,Santiago de los Caballeros,99.22
+437,Dominican Republic,Santo Domingo,79.92
+438,Dominican Republic,Santo Domingo Este,?
+439,Ecuador,Ambato,?
+440,Ecuador,Cotacachi,?
+441,Ecuador,Cuenca,141.94
+442,Ecuador,Guayaquil,101.92
+443,Ecuador,Loja,?
+444,Ecuador,Quito,115.67
+445,Egypt,Al Jizah,77.38
+446,Egypt,Alexandria,100.74
+447,Egypt,Aswan,?
+448,Egypt,Cairo,82.46
+449,Egypt,Dahab,?
+450,Egypt,Giza,81.69
+451,Egypt,Hurghada,139.06
+452,Egypt,Luxor,?
+453,Egypt,Mansoura (El Mansura),?
+454,Egypt,Sharm El Sheikh,?
+455,Egypt,Sheikh Zayed,151.43
+456,Egypt,Suez,?
+457,Egypt,Tanta,?
+458,El Salvador,San Salvador,82.51
+459,Equatorial Guinea,Bata,?
+460,Equatorial Guinea,Malabo,?
+461,Estonia,Elva,?
+462,Estonia,Narva,?
+463,Estonia,Rakvere,?
+464,Estonia,Tallinn,169.51
+465,Estonia,Tartu,?
+466,Ethiopia,Addis Ababa,69.59
+467,Ethiopia,Bahir Dar,?
+468,Fiji,Nadi,?
+469,Fiji,Suva,131.82
+470,Finland,Espoo,185.93
+471,Finland,Hameenlinna,?
+472,Finland,Helsinki,185.36
+473,Finland,Joensuu,?
+474,Finland,Jyvaskyla,195.55
+475,Finland,Kuopio,206.03
+476,Finland,Lahti,159.46
+477,Finland,Lappeenranta,?
+478,Finland,Mikkeli,?
+479,Finland,Oulu,185.77
+480,Finland,Pori,206.00
+481,Finland,Rovaniemi,?
+482,Finland,Seinajoki,?
+483,Finland,Tampere,194.47
+484,Finland,Turku,197.62
+485,Finland,Vaasa,193.29
+486,Finland,Vantaa,175.06
+487,France,Aix-en-Provence,170.47
+488,France,Ajaccio,?
+489,France,Angers,?
+490,France,Annecy,146.38
+491,France,Antibes,178.92
+492,France,Avignon,?
+493,France,Bordeaux,171.17
+494,France,Brest,?
+495,France,Caen,?
+496,France,Chartres,?
+497,France,Cherbourg,?
+498,France,Clermont-Ferrand,?
+499,France,Dijon,?
+500,France,Fontainebleau,?
+501,France,Grenoble,149.70
+502,France,Ivry-sur-Seine,?
+503,France,La Rochelle,?
+504,France,Le Havre,?
+505,France,Le Mans,?
+506,France,Lille,167.21
+507,France,Limoges,?
+508,France,Lyon,153.74
+509,France,Marseille,144.46
+510,France,Massy,?
+511,France,Metz,?
+512,France,Montpellier,173.27
+513,France,Mulhouse,?
+514,France,Nancy,?
+515,France,Nantes,163.53
+516,France,Nice,149.66
+517,France,Orleans,?
+518,France,Paris,124.31
+519,France,Reims,?
+520,France,Rennes,164.74
+521,France,Rouen,?
+522,France,Rueil-Malmaison,?
+523,France,Strasbourg,182.67
+524,France,Toulouse,175.64
+525,France,Tours,201.31
+526,France,Valence,?
+527,France,Versailles,212.19
+528,French Guiana,Cayenne,?
+529,French Polynesia,Papeete,?
+530,Gabon,Libreville,0.00
+531,Georgia,"Batumi, Ajara",176.89
+532,Georgia,Tbilisi,113.21
+533,Germany,Aachen,200.93
+534,Germany,Aschaffenburg,?
+535,Germany,Augsburg,164.93
+536,Germany,Baden Wurttemburg,?
+537,Germany,Bamberg,?
+538,Germany,Berlin,168.99
+539,Germany,Bielefeld,174.02
+540,Germany,Bochum,?
+541,Germany,Bonn,175.92
+542,Germany,Braunschweig,207.09
+543,Germany,Bremen,179.16
+544,Germany,Bremerhaven,?
+545,Germany,Coburg,?
+546,Germany,Cologne,160.54
+547,Germany,Darmstadt,?
+548,Germany,Dessau,?
+549,Germany,Dortmund,178.40
+550,Germany,Dresden,199.20
+551,Germany,Duisburg,?
+552,Germany,Dusseldorf,184.56
+553,Germany,Erfurt,201.66
+554,Germany,Erlangen,215.79
+555,Germany,Essen,?
+556,Germany,Frankfurt,175.43
+557,Germany,Freiburg im Breisgau,188.39
+558,Germany,Friedrichshafen,?
+559,Germany,Giessen,?
+560,Germany,Goettingen,201.44
+561,Germany,Halle,?
+562,Germany,Hamburg,173.49
+563,Germany,Hanover,188.68
+564,Germany,Heidelberg,206.12
+565,Germany,Heilbronn,?
+566,Germany,Hildesheim,104.47
+567,Germany,Ingolstadt,197.32
+568,Germany,Jena,197.02
+569,Germany,Kaiserslautern,?
+570,Germany,Karlsruhe,192.70
+571,Germany,Kassel,?
+572,Germany,Kiel,189.90
+573,Germany,Koblenz,?
+574,Germany,Leipzig,180.75
+575,Germany,Ludwigshafen,?
+576,Germany,Lübeck,?
+577,Germany,Magdeburg,?
+578,Germany,Mainz,181.20
+579,Germany,Mannheim,173.02
+580,Germany,Marburg,?
+581,Germany,Moenchengladbach,?
+582,Germany,Muelheim an der Ruhr,?
+583,Germany,Munich,183.06
+584,Germany,Munster,186.27
+585,Germany,Neuss,?
+586,Germany,Nuremberg,185.02
+587,Germany,Oldenburg,?
+588,Germany,Osnabruck,219.54
+589,Germany,Paderborn,185.75
+590,Germany,Passau,?
+591,Germany,Pforzheim,166.80
+592,Germany,Potsdam,164.13
+593,Germany,Recklinghausen,?
+594,Germany,Regensburg,208.63
+595,Germany,Rostock,197.47
+596,Germany,Saarbrucken,194.92
+597,Germany,Solingen,?
+598,Germany,Stuttgart,175.96
+599,Germany,Trier,?
+600,Germany,Wiesbaden,152.77
+601,Germany,Wolfsburg,?
+602,Germany,Wuerzburg,197.64
+603,Germany,Wuppertal,?
+604,Ghana,Accra,17.90
+605,Ghana,Kumasi,?
+606,Gibraltar,Gibraltar,176.17
+607,Greece,Alexandroupoli,?
+608,Greece,Athens,118.22
+609,Greece,Chania,164.76
+610,Greece,Corfu,158.04
+611,Greece,Corinth,?
+612,Greece,Crete,?
+613,Greece,Drama,?
+614,Greece,Heraklion,155.58
+615,Greece,Igoumenitsa,?
+616,Greece,Ioannina,165.54
+617,Greece,Katerini,?
+618,Greece,Kavala,157.01
+619,Greece,Komotini,174.04
+620,Greece,Larissa,160.74
+621,Greece,Mytilene,?
+622,Greece,Naousa,?
+623,Greece,Patras,139.52
+624,Greece,Peristeri,?
+625,Greece,Piraeus (Pireas),97.31
+626,Greece,Rethymno,?
+627,Greece,Rhodes,165.84
+628,Greece,Samos,?
+629,Greece,Serrai,?
+630,Greece,Thessaloniki,117.74
+631,Greece,Veria,?
+632,Greece,Volos,144.99
+633,Greece,Xanthi,163.73
+634,Greenland,Nuuk,?
+635,Grenada,Grenada,?
+636,Guam,Hagatna,?
+637,Guatemala,Guatemala City,96.83
+638,Guatemala,Quetzaltenango,?
+639,Guernsey,Saint Peter Port,183.93
+640,Guernsey,St Peter Port,198.20
+641,Guyana,Georgetown,56.58
+642,Haiti,Port-au-Prince,?
+643,Honduras,San Pedro Sula,84.01
+644,Honduras,Tegucigalpa,98.42
+645,Hong Kong,Hong Kong,106.11
+646,Hungary,Budapest,129.23
+647,Hungary,Budaörs (Budaors),181.64
+648,Hungary,Debrecen,158.09
+649,Hungary,Eger,168.17
+650,Hungary,Gyor,169.01
+651,Hungary,Kecskemet,?
+652,Hungary,Miskolc,128.80
+653,Hungary,Nyiregyhaza,144.18
+654,Hungary,Pecs,160.34
+655,Hungary,Szeged,162.14
+656,Hungary,Szekesfehervar,?
+657,Hungary,Szolnok,172.42
+658,Hungary,Szombathely,185.64
+659,Hungary,Veszprem,191.60
+660,Hungary,Zalaegerszeg,?
+661,Iceland,Akureyri,186.49
+662,Iceland,Reykjavik,188.03
+663,India,Agartala,143.81
+664,India,Agra,?
+665,India,Ahmedabad,114.16
+666,India,Ajmer,?
+667,India,Allahabad,?
+668,India,Amravati,?
+669,India,Amritsar,107.68
+670,India,Anantapur,?
+671,India,Aurangabad,125.08
+672,India,Bangalore,123.38
+673,India,Belgaum,?
+674,India,"Bharuch, Gujarat",?
+675,India,Bhavnagar,?
+676,India,Bhilai,?
+677,India,Bhopal,133.43
+678,India,Bhubaneswar,147.34
+679,India,Bikaner,?
+680,India,Bokaro,?
+681,India,Chandigarh,?
+682,India,Chennai,113.75
+683,India,Coimbatore,127.11
+684,India,Dehradun,?
+685,India,Delhi,82.71
+686,India,Durgapur,?
+687,India,Eluru,?
+688,India,Ernakulam,131.24
+689,India,Erode,?
+690,India,Faridabad,92.06
+691,India,Gandhinagar,?
+692,India,Ghaziabad,?
+693,India,Gorakhpur,?
+694,India,Gujarat,?
+695,India,Gulbarga,?
+696,India,Guntur,115.45
+697,India,Gurgaon,107.40
+698,India,Guwahati,122.27
+699,India,Gwalior,?
+700,India,Hisar,135.19
+701,India,Hosur,?
+702,India,Hubli,?
+703,India,Hyderabad,117.57
+704,India,Imphal,?
+705,India,Indore,127.67
+706,India,Jabalpur,128.33
+707,India,Jaipur,126.83
+708,India,Jalandhar,82.00
+709,India,Jalgaon,?
+710,India,Jammu,120.78
+711,India,Jamnagar,?
+712,India,Jamshedpur,?
+713,India,Jodhpur,?
+714,India,Kakinada,?
+715,India,Kalyan,85.73
+716,India,Kannur,?
+717,India,Kanpur,?
+718,India,Kochi,131.05
+719,India,Kolhapur,?
+720,India,Kolkata,103.68
+721,India,Kollam,?
+722,India,Kota,?
+723,India,Kottayam,?
+724,India,Kozhikode (Calicut),119.83
+725,India,Krishnagiri,?
+726,India,Kurnool,?
+727,India,Lucknow (Lakhnau),120.38
+728,India,Ludhiana,?
+729,India,Madras,?
+730,India,Madurai,?
+731,India,Malappuram,?
+732,India,Mangalore,160.89
+733,India,Meerut,?
+734,India,Mumbai,75.45
+735,India,Muradabad (Moradabad),?
+736,India,Mysore,?
+737,India,"Nagercoil, Tamil Nadu",?
+738,India,Nagpur,133.19
+739,India,Nashik,?
+740,India,Nasik,?
+741,India,Navi Mumbai,145.38
+742,India,Navsari,?
+743,India,Nellore,?
+744,India,Noida,110.11
+745,India,Palakkad,?
+746,India,Panaji,?
+747,India,Panipat,?
+748,India,Patiala,?
+749,India,Patna,?
+750,India,Pondicherry,?
+751,India,Pune,131.84
+752,India,Raipur,?
+753,India,Rajkot,107.11
+754,India,Ranchi,117.14
+755,India,Salem,?
+756,India,Shillong,?
+757,India,Shimla,?
+758,India,Silchar,?
+759,India,Siliguri,118.98
+760,India,Solapur,?
+761,India,Srinagar,?
+762,India,Surat,?
+763,India,Thane,121.27
+764,India,Thiruvananthapuram,146.49
+765,India,Thrissur,?
+766,India,Tiruchirapalli (Trichy),?
+767,India,"Tirunelveli, Tamil Nadu",?
+768,India,Tirupati,?
+769,India,Tiruppūr,?
+770,India,Tirupur (Tiruppur),?
+771,India,Udaipur,138.44
+772,India,Udupi,?
+773,India,Vadodara,?
+774,India,Vapi,?
+775,India,Varanasi,?
+776,India,Vasai,?
+777,India,Vellore,?
+778,India,Vijayawada,107.29
+779,India,Visakhapatnam,?
+780,India,Warangal,?
+781,Indonesia,Bali,101.73
+782,Indonesia,Balikpapan,?
+783,Indonesia,Banda Aceh,?
+784,Indonesia,Bandung,112.18
+785,Indonesia,Batam,105.09
+786,Indonesia,Bekasi,105.46
+787,Indonesia,Bogor,116.86
+788,Indonesia,Denpasar,109.40
+789,Indonesia,Depok,?
+790,Indonesia,Indonesia,?
+791,Indonesia,Jakarta,75.13
+792,Indonesia,Makassar,103.45
+793,Indonesia,Malang,?
+794,Indonesia,Medan,?
+795,Indonesia,Padang,?
+796,Indonesia,Pekanbaru,?
+797,Indonesia,Samarinda,?
+798,Indonesia,Semarang,120.08
+799,Indonesia,Surabaya,112.69
+800,Indonesia,Tangerang,110.67
+801,Indonesia,Yogyakarta,108.01
+802,Iran,Arak,?
+803,Iran,Babol,?
+804,Iran,Isfahan (Esfahan),91.00
+805,Iran,Karaj,66.05
+806,Iran,Kerman,115.63
+807,Iran,Mashhad,93.94
+808,Iran,Qazvin,?
+809,Iran,Rasht,?
+810,Iran,Shiraz,89.06
+811,Iran,Tabriz,77.89
+812,Iran,Tehran,60.30
+813,Iraq,Ad Diwaniyah,?
+814,Iraq,An Najaf,?
+815,Iraq,As Sulaymaniyah,?
+816,Iraq,Baghdad,56.10
+817,Iraq,Erbil (Irbil),126.88
+818,Iraq,Karbala,?
+819,Iraq,Kirkuk,?
+820,Ireland,Bray,?
+821,Ireland,Carlow,?
+822,Ireland,Cork,173.08
+823,Ireland,Drogheda,?
+824,Ireland,Dublin,142.38
+825,Ireland,Ennis,?
+826,Ireland,Galway,174.84
+827,Ireland,Killarney,?
+828,Ireland,Limerick,178.60
+829,Ireland,Malahide,?
+830,Ireland,Maynooth,?
+831,Ireland,Swords,?
+832,Ireland,Tralee,?
+833,Ireland,Waterford,167.33
+834,Ireland,Wexford,165.57
+835,Isle Of Man,Douglas,252.53
+836,Israel,Ashdod,128.41
+837,Israel,Bat Yam,?
+838,Israel,Beersheba,154.82
+839,Israel,Beit Shemesh,150.44
+840,Israel,Hadera,?
+841,Israel,Haifa,153.48
+842,Israel,Herzliya,?
+843,Israel,Holon,?
+844,Israel,Jerusalem,140.28
+845,Israel,Kefar Sava,143.98
+846,Israel,Modiin,205.56
+847,Israel,Netanya,154.05
+848,Israel,Petah Tikva,148.21
+849,Israel,Ramat Gan,158.33
+850,Israel,Ramat HaSharon,?
+851,Israel,Rehovot,?
+852,Israel,Rishon Leziyyon,167.28
+853,Israel,Tel Aviv-Yafo,152.22
+854,Italy,Alessandria,?
+855,Italy,Ancona,154.38
+856,Italy,Anzio (Rome),?
+857,Italy,Aosta,?
+858,Italy,Arezzo,147.19
+859,Italy,Avellino,?
+860,Italy,Aversa,?
+861,Italy,Bari,140.15
+862,Italy,Barletta,?
+863,Italy,Belluno,?
+864,Italy,Bergamo,156.89
+865,Italy,Biella,?
+866,Italy,Bologna,139.44
+867,Italy,Bolzano-Bozen,174.22
+868,Italy,Brescia,133.43
+869,Italy,Cagliari,163.70
+870,Italy,Caserta,?
+871,Italy,Catania,115.22
+872,Italy,Chieti,?
+873,Italy,Como,145.65
+874,Italy,Cuneo,?
+875,Italy,Domodossola,?
+876,Italy,Ferrara,?
+877,Italy,Florence,142.25
+878,Italy,Forli,?
+879,Italy,Genoa,144.06
+880,Italy,Gorizia,?
+881,Italy,L'Aquila,?
+882,Italy,La Spezia,164.15
+883,Italy,Lecce,?
+884,Italy,Livorno,?
+885,Italy,Lucca,?
+886,Italy,Mantova,?
+887,Italy,Matera,?
+888,Italy,Messina,?
+889,Italy,Mestre,?
+890,Italy,Milan,118.92
+891,Italy,Modena,141.50
+892,Italy,Monza,140.58
+893,Italy,Naples,107.90
+894,Italy,Olbia,?
+895,Italy,Padova,141.21
+896,Italy,Palermo,137.91
+897,Italy,Parma,144.86
+898,Italy,Pavia,?
+899,Italy,Perugia,?
+900,Italy,Pescara,131.00
+901,Italy,Piacenza,?
+902,Italy,Pisa,146.63
+903,Italy,Pistoia,?
+904,Italy,Pordenone,177.93
+905,Italy,Prato,?
+906,Italy,Ragusa,?
+907,Italy,Ravenna,?
+908,Italy,Reggio Di Calabria,?
+909,Italy,Reggio Nell'emilia,145.00
+910,Italy,Rimini,171.30
+911,Italy,Rome,113.23
+912,Italy,Salerno,?
+913,Italy,Sassuolo,?
+914,Italy,Savona,?
+915,Italy,Siena,?
+916,Italy,Siracusa,?
+917,Italy,Trento,176.88
+918,Italy,Treviso,158.51
+919,Italy,Trieste,166.99
+920,Italy,Turin,134.19
+921,Italy,Udine,?
+922,Italy,Varese,136.30
+923,Italy,Venice,133.25
+924,Italy,Ventimiglia,?
+925,Italy,Verona,148.21
+926,Italy,Vicenza,?
+927,Ivory Coast,Abidjan,4.56
+928,Jamaica,Kingston,73.67
+929,Jamaica,Mandeville,?
+930,Jamaica,Negril,?
+931,Jamaica,Ocho Rios,?
+932,Jamaica,Portmore,?
+933,Japan,Chiba,?
+934,Japan,Fukuoka,164.09
+935,Japan,Hiroshima,?
+936,Japan,Kanazawa,?
+937,Japan,Kawasaki,?
+938,Japan,Kobe,?
+939,Japan,Kyoto,181.08
+940,Japan,Nagoya,198.71
+941,Japan,Okinawa,223.55
+942,Japan,Osaka,162.12
+943,Japan,Otsu,?
+944,Japan,Sapporo,190.61
+945,Japan,Sendai,206.78
+946,Japan,Shizuoka,211.10
+947,Japan,Tokyo,167.98
+948,Japan,Utsunomiya,?
+949,Japan,Yokohama,183.64
+950,Jersey,Saint Helier,154.34
+951,Jordan,Amman,115.80
+952,Jordan,Az-zarqa',?
+953,Jordan,Irbid,148.66
+954,Kazakhstan,Aktobe,?
+955,Kazakhstan,Almaty,87.29
+956,Kazakhstan,Astana (Nur-Sultan),125.56
+957,Kazakhstan,Kostanay (Kustanay),58.51
+958,Kazakhstan,Pavlodar,?
+959,Kenya,Kisumu,?
+960,Kenya,Mombasa,?
+961,Kenya,Nairobi,97.35
+962,Kenya,Nakuru,?
+963,Kosovo (Disputed Territory),Pristina,127.64
+964,Kosovo (Disputed Territory),Prizren,?
+965,Kuwait,Abu Halifa,?
+966,Kuwait,Al-farwaniyah,?
+967,Kuwait,Ardiya,?
+968,Kuwait,As-salimiyah,173.25
+969,Kuwait,Hawalli,?
+970,Kuwait,Kuwait City,123.24
+971,Kuwait,Mahboula,?
+972,Kuwait,Salmiya,129.68
+973,Kyrgyzstan,Bishkek,90.76
+974,Laos,Vientiane,84.60
+975,Latvia,Cesis,?
+976,Latvia,Jurmala,171.21
+977,Latvia,Liepaja,173.61
+978,Latvia,Riga,147.55
+979,Latvia,Valmiera,?
+980,Latvia,Ventspils,176.84
+981,Lebanon,Beirut,65.99
+982,Lebanon,Tripoli,115.10
+983,Lesotho,Maseru,?
+984,Liberia,Monrovia,75.00
+985,Libya,Benghazi,109.13
+986,Libya,Tripoli,108.39
+987,Lithuania,Kaunas,168.48
+988,Lithuania,Klaipeda,175.71
+989,Lithuania,Siauliai,?
+990,Lithuania,Vilnius,166.94
+991,Luxembourg,Luxembourg,182.93
+992,Macao,Macao,140.15
+993,Macao,Taipa,?
+994,Madagascar,Antananarivo,75.73
+995,Malawi,Lilongwe,?
+996,Malaysia,Alor Setar,?
+997,Malaysia,Ampang Jaya,?
+998,Malaysia,Bangi,?
+999,Malaysia,Bukit Mertajam,?
+1000,Malaysia,"Cyberjaya, Selangor",?
+1001,Malaysia,George Town,?
+1002,Malaysia,Johor Bahru,122.26
+1003,Malaysia,"Kajang, Selangor",?
+1004,Malaysia,Klang,92.19
+1005,Malaysia,Kota Bharu,?
+1006,Malaysia,Kota Kinabalu,106.85
+1007,Malaysia,Kuala Lumpur,125.65
+1008,Malaysia,Kuala Terengganu,?
+1009,Malaysia,Kuantan,?
+1010,Malaysia,Kuching,125.45
+1011,Malaysia,Melaka,?
+1012,Malaysia,Miri,?
+1013,Malaysia,Penang,151.15
+1014,Malaysia,Petaling Jaya,119.31
+1015,Malaysia,Putrajaya,?
+1016,Malaysia,"Sandakan, Sabah",?
+1017,Malaysia,Selangor,?
+1018,Malaysia,Seremban,?
+1019,Malaysia,Shah Alam,?
+1020,Malaysia,Subang Jaya,?
+1021,Malaysia,Sungai Petani,?
+1022,Malaysia,Taiping,?
+1023,Maldives,Maldives,83.80
+1024,Maldives,Male,83.80
+1025,Malta,Birkirkara,116.06
+1026,Malta,Bugibba,?
+1027,Malta,Gozo,?
+1028,Malta,Gzira,75.82
+1029,Malta,Marsascala,?
+1030,Malta,Mosta,160.14
+1031,Malta,Msida,?
+1032,Malta,San Gwann,129.79
+1033,Malta,Sliema,116.85
+1034,Malta,St. Julians (San Ġiljan),?
+1035,Malta,Valletta,93.20
+1036,Malta,Zabbar,?
+1037,Mauritius,Curepipe,124.23
+1038,Mauritius,Port Louis,93.34
+1039,Mauritius,Vacoas,?
+1040,Mexico,Acapulco,?
+1041,Mexico,Aguascalientes,178.49
+1042,Mexico,Ajijic,?
+1043,Mexico,Apodaca,?
+1044,Mexico,"Cabo San Lucas, Baja California Sur",158.73
+1045,Mexico,Cancun,142.08
+1046,Mexico,Celaya,?
+1047,Mexico,Chihuahua,163.65
+1048,Mexico,Ciudad General Escobedo,?
+1049,Mexico,Ciudad Juarez,146.91
+1050,Mexico,Ciudad Obregon,?
+1051,Mexico,Ciudad del Carmen,?
+1052,Mexico,Cozumel,152.49
+1053,Mexico,Cuernavaca,122.94
+1054,Mexico,Culiacan,124.60
+1055,Mexico,Durango,158.15
+1056,Mexico,Ecatepec,?
+1057,Mexico,Ensenada,160.22
+1058,Mexico,Guadalajara,129.62
+1059,Mexico,Guanajuato,138.75
+1060,Mexico,Hermosillo,140.37
+1061,Mexico,La Paz,150.09
+1062,Mexico,Leon,109.74
+1063,Mexico,Mazatlan,153.56
+1064,Mexico,Merida,150.43
+1065,Mexico,Mexicali,105.71
+1066,Mexico,Mexico City,88.95
+1067,Mexico,Monterrey,128.55
+1068,Mexico,Morelia,?
+1069,Mexico,Naucalpan,?
+1070,Mexico,Oaxaca de Juarez,132.28
+1071,Mexico,Pachuca,?
+1072,Mexico,Playa del Carmen,146.89
+1073,Mexico,Puebla,126.47
+1074,Mexico,Puerto Vallarta,128.44
+1075,Mexico,Queretaro,163.09
+1076,Mexico,Saltillo,164.81
+1077,Mexico,San Luis Potosi,140.96
+1078,Mexico,San Luis Rio Colorado,?
+1079,Mexico,San Miguel de Allende,125.93
+1080,Mexico,San Nicolas de los Garza,?
+1081,Mexico,San Pedro Garza Garcia,?
+1082,Mexico,Tampico,154.24
+1083,Mexico,Tepic,?
+1084,Mexico,Tijuana,114.83
+1085,Mexico,Tlalnepantla,?
+1086,Mexico,Toluca,127.38
+1087,Mexico,Torreon,?
+1088,Mexico,Tulum,?
+1089,Mexico,Tuxtla Gutierrez,136.55
+1090,Mexico,Valladolid,?
+1091,Mexico,Veracruz,?
+1092,Mexico,Villahermosa,?
+1093,Mexico,"Xalapa, Veracruz",?
+1094,Mexico,Zacatecas,?
+1095,Mexico,Zapopan,163.02
+1096,Moldova,Chisinau,120.15
+1097,Monaco,Monaco,?
+1098,Mongolia,Ulaanbaatar,53.88
+1099,Montenegro,Budva,158.54
+1100,Montenegro,Kotor,149.29
+1101,Montenegro,Podgorica,137.40
+1102,Montenegro,Tivat,133.70
+1103,Morocco,Agadir,137.06
+1104,Morocco,Casablanca,91.37
+1105,Morocco,Kenitra,96.71
+1106,Morocco,Marrakech,107.15
+1107,Morocco,Meknes,141.63
+1108,Morocco,Nador,?
+1109,Morocco,Rabat,129.26
+1110,Morocco,Tangier,100.03
+1111,Morocco,Tetouan,136.77
+1112,Morocco,Tiznit,?
+1113,Mozambique,Maputo,61.42
+1114,Myanmar,Yangon,77.42
+1115,Namibia,Swakopmund,?
+1116,Namibia,Walvis Bay,?
+1117,Namibia,Windhoek,138.98
+1118,Nepal,Kathmandu,77.49
+1119,Nepal,Lalitpur (Patan),107.59
+1120,Nepal,Pokhara,90.78
+1121,Netherlands,'s-Hertogenbosch,189.16
+1122,Netherlands,Alkmaar,202.17
+1123,Netherlands,Almere,195.52
+1124,Netherlands,Amersfoort,222.38
+1125,Netherlands,Amstelveen,217.39
+1126,Netherlands,Amsterdam,183.05
+1127,Netherlands,Arnhem,190.31
+1128,Netherlands,Best,?
+1129,Netherlands,Beverwijk,?
+1130,Netherlands,Breda,212.52
+1131,Netherlands,Delft,190.61
+1132,Netherlands,Dordrecht,?
+1133,Netherlands,Eindhoven,208.06
+1134,Netherlands,Enschede,198.97
+1135,Netherlands,Goes,?
+1136,Netherlands,Groningen,174.02
+1137,Netherlands,Haarlem,169.68
+1138,Netherlands,Leeuwarden,?
+1139,Netherlands,Leiden,199.17
+1140,Netherlands,Lelystad,?
+1141,Netherlands,Maastricht,190.18
+1142,Netherlands,Nijmegen,197.40
+1143,Netherlands,Rotterdam,198.71
+1144,Netherlands,The Hague (Den Haag),217.90
+1145,Netherlands,Tilburg,171.80
+1146,Netherlands,Utrecht,184.23
+1147,Netherlands,Zeist,?
+1148,Netherlands,Zoetermeer,?
+1149,New Caledonia,Noumea,125.37
+1150,New Zealand,Auckland,179.33
+1151,New Zealand,Blenheim,?
+1152,New Zealand,Christchurch,196.92
+1153,New Zealand,Dunedin,?
+1154,New Zealand,Gisborne,?
+1155,New Zealand,Hamilton,183.44
+1156,New Zealand,Hastings,?
+1157,New Zealand,Invercargill,?
+1158,New Zealand,Lower Hutt,?
+1159,New Zealand,Masterton,?
+1160,New Zealand,Napier,?
+1161,New Zealand,Nelson,?
+1162,New Zealand,New Plymouth,?
+1163,New Zealand,Palmerston North,206.68
+1164,New Zealand,Queenstown,?
+1165,New Zealand,Rotorua,?
+1166,New Zealand,Tauranga,?
+1167,New Zealand,Timaru,?
+1168,New Zealand,Wellington,197.26
+1169,New Zealand,Whangarei,?
+1170,Nicaragua,Managua,102.49
+1171,Niger,Niamey,0.00
+1172,Nigeria,Abuja,0.00
+1173,Nigeria,Enugu,?
+1174,Nigeria,Ibadan,116.16
+1175,Nigeria,Lagos,49.42
+1176,North Korea,P'yongyang,?
+1177,North Macedonia,Bitola,138.05
+1178,North Macedonia,Gevgelija,?
+1179,North Macedonia,Kumanovo,80.49
+1180,North Macedonia,Ohrid,164.62
+1181,North Macedonia,Prilep,142.24
+1182,North Macedonia,Skopje,101.24
+1183,North Macedonia,Stip,?
+1184,North Macedonia,Strumica,?
+1185,North Macedonia,Tetovo,104.41
+1186,North Macedonia,Veles,139.25
+1187,Norway,Alesund,191.70
+1188,Norway,Arendal,181.09
+1189,Norway,Asker,?
+1190,Norway,Bergen,189.73
+1191,Norway,Bodo,?
+1192,Norway,Drammen,185.19
+1193,Norway,Fredrikstad,?
+1194,Norway,Halden,?
+1195,Norway,Hamar,?
+1196,Norway,Haugesund,215.98
+1197,Norway,Horten,?
+1198,Norway,Kongsberg,?
+1199,Norway,Kristiansand,195.98
+1200,Norway,Kristiansund,?
+1201,Norway,Molde,?
+1202,Norway,Oslo,169.36
+1203,Norway,Sandnes,?
+1204,Norway,Stavanger,197.46
+1205,Norway,Tromso,182.31
+1206,Norway,Trondheim,208.53
+1207,Oman,Muscat,180.99
+1208,Oman,Salalah,?
+1209,Oman,Sohar,?
+1210,Pakistan,Bahawalpur,?
+1211,Pakistan,Faisalabad,111.72
+1212,Pakistan,Gujranwala,75.71
+1213,Pakistan,Gujrat,?
+1214,Pakistan,Hyderabad,103.98
+1215,Pakistan,Islamabad,139.43
+1216,Pakistan,Karachi,78.92
+1217,Pakistan,Lahore,105.23
+1218,Pakistan,Multan,111.72
+1219,Pakistan,Peshawar,85.39
+1220,Pakistan,Quetta,59.89
+1221,Pakistan,Rawalpindi,91.20
+1222,Pakistan,Sialkot,84.39
+1223,Palestine,Gaza,104.45
+1224,Palestine,Nablus,153.77
+1225,Palestine,Ramallah,162.37
+1226,Panama,Boquete,?
+1227,Panama,David,136.01
+1228,Panama,Panama City,114.44
+1229,Papua New Guinea,Port Moresby,0.00
+1230,Paraguay,Asuncion,103.93
+1231,Peru,Arequipa,98.83
+1232,Peru,Cusco,111.20
+1233,Peru,Lima,80.71
+1234,Peru,Piura,?
+1235,Peru,Trujillo,?
+1236,Philippines,Alabang,?
+1237,Philippines,Angeles,97.87
+1238,Philippines,Bacolod,?
+1239,Philippines,Baguio,109.34
+1240,Philippines,Batangas,?
+1241,Philippines,Bulacan,?
+1242,Philippines,Cagayan de Oro City,?
+1243,Philippines,Cainta,?
+1244,Philippines,Caloocan,?
+1245,Philippines,Cavite,?
+1246,Philippines,Cebu,65.31
+1247,Philippines,Davao,104.00
+1248,Philippines,Dumaguete,?
+1249,Philippines,Iloilo,?
+1250,Philippines,Laoag City,?
+1251,Philippines,Lucena,?
+1252,Philippines,Makati,93.86
+1253,Philippines,Mandaluyong,68.61
+1254,Philippines,Manila,48.81
+1255,Philippines,Naga,?
+1256,Philippines,Olongapo,?
+1257,Philippines,Paranaque City,?
+1258,Philippines,Pasig,?
+1259,Philippines,Quezon City,71.93
+1260,Philippines,Tacloban,?
+1261,Philippines,Taguig City,?
+1262,Philippines,Valenzuela,?
+1263,Poland,Bialystok,150.51
+1264,Poland,Bielsko-biala,?
+1265,Poland,Bydgoszcz,145.40
+1266,Poland,Bytom,?
+1267,Poland,Czeladz,?
+1268,Poland,Elblag,?
+1269,Poland,Gdansk,140.16
+1270,Poland,Gdynia,152.51
+1271,Poland,Gliwice,147.23
+1272,Poland,Katowice,131.63
+1273,Poland,Kielce,?
+1274,Poland,Koszalin,?
+1275,Poland,Krakow (Cracow),132.79
+1276,Poland,Lodz,135.90
+1277,Poland,Lublin,156.16
+1278,Poland,Nowy Sacz,?
+1279,Poland,Olsztyn,?
+1280,Poland,Opole,?
+1281,Poland,Pila,?
+1282,Poland,Plock,115.49
+1283,Poland,Poznan,138.62
+1284,Poland,Rybnik,?
+1285,Poland,Rzeszow,161.14
+1286,Poland,Szczecin,150.84
+1287,Poland,Tarnow,?
+1288,Poland,Torun,?
+1289,Poland,Tychy,?
+1290,Poland,Warsaw,136.62
+1291,Poland,Wroclaw,136.03
+1292,Poland,Zielona Gora,164.49
+1293,Portugal,Albufeira,?
+1294,Portugal,Almada,154.37
+1295,Portugal,Amadora,?
+1296,Portugal,Aveiro,169.84
+1297,Portugal,Barcelos,?
+1298,Portugal,Braga,184.26
+1299,Portugal,Caldas da Rainha,?
+1300,Portugal,Cascais,169.78
+1301,Portugal,Chaves,?
+1302,Portugal,Coimbra,197.26
+1303,Portugal,Evora,?
+1304,Portugal,Faro,163.21
+1305,Portugal,Figueira da Foz,?
+1306,Portugal,Funchal,178.69
+1307,Portugal,Horta,?
+1308,Portugal,Leiria,182.87
+1309,Portugal,Lisbon,153.04
+1310,Portugal,Oeiras,190.67
+1311,Portugal,Ponta Delgada,?
+1312,Portugal,Portimao,198.94
+1313,Portugal,Porto,160.43
+1314,Portugal,Santarem,?
+1315,Portugal,Setubal,133.21
+1316,Portugal,Tavira,?
+1317,Portugal,Tomar,?
+1318,Portugal,Torres Vedras,?
+1319,Portugal,Viana do Castelo,179.10
+1320,Portugal,Vila Franca de Xira,?
+1321,Portugal,Vila Nova de Gaia,151.42
+1322,Portugal,Vila Real,?
+1323,Portugal,Viseu,?
+1324,Puerto Rico,Aguadilla,?
+1325,Puerto Rico,Bayamon,?
+1326,Puerto Rico,Caguas,?
+1327,Puerto Rico,Ponce,?
+1328,Puerto Rico,San Juan,115.39
+1329,Puerto Rico,Santa Isabel,?
+1330,Qatar,Doha,157.71
+1331,Reunion,Saint-Pierre,?
+1332,Romania,Alba Iulia,?
+1333,Romania,Arad,161.22
+1334,Romania,Bacau,106.50
+1335,Romania,Baia Mare,?
+1336,Romania,Botosani,?
+1337,Romania,Braila,111.68
+1338,Romania,Brasov,?
+1339,Romania,Bucharest,121.89
+1340,Romania,Cluj-Napoca,148.92
+1341,Romania,Constanta,125.11
+1342,Romania,Craiova,134.54
+1343,Romania,Deva,?
+1344,Romania,Galati,126.33
+1345,Romania,Iasi,130.87
+1346,Romania,Oradea,165.86
+1347,Romania,Piatra Neamt,?
+1348,Romania,Pitesti,?
+1349,Romania,Ploiesti,110.76
+1350,Romania,Ramnicu Valcea,?
+1351,Romania,Satu Mare,?
+1352,Romania,Sibiu,159.36
+1353,Romania,Sighetu Marmatiei,?
+1354,Romania,Suceava,132.68
+1355,Romania,Targoviste,148.84
+1356,Romania,Targu Mures,148.36
+1357,Romania,Timisoara,154.88
+1358,Romania,Tulcea,?
+1359,Russia,Arkhangelsk,?
+1360,Russia,Astrakhan,?
+1361,Russia,Balashikha,?
+1362,Russia,Barnaul,63.61
+1363,Russia,Belgorod,128.07
+1364,Russia,Bryansk,?
+1365,Russia,Cheboksary,?
+1366,Russia,Chelyabinsk,78.31
+1367,Russia,Cherepovets,?
+1368,Russia,Irkutsk,91.54
+1369,Russia,Ivanovo,?
+1370,Russia,Izhevsk,?
+1371,Russia,Kaliningrad,127.56
+1372,Russia,Kaluga,?
+1373,Russia,Kazan,105.72
+1374,Russia,Kemerovo,?
+1375,Russia,Khabarovsk,100.63
+1376,Russia,Khimki,?
+1377,Russia,Kirov,?
+1378,Russia,Kolomna,?
+1379,Russia,Krasnodar,109.21
+1380,Russia,Krasnoyarsk,71.38
+1381,Russia,Kursk,?
+1382,Russia,Magnitogorsk,67.15
+1383,Russia,Makhachkala,?
+1384,Russia,Moscow,114.55
+1385,Russia,Murmansk,?
+1386,Russia,Nalchik,?
+1387,Russia,Nizhny Novgorod,142.77
+1388,Russia,Novokuznetsk,?
+1389,Russia,Novorossiysk,?
+1390,Russia,Novosibirsk,82.10
+1391,Russia,Odintsovo,?
+1392,Russia,Omsk,67.09
+1393,Russia,Orenburg,?
+1394,Russia,Penza,?
+1395,Russia,Perm,90.00
+1396,Russia,Petrozavodsk,?
+1397,Russia,Podolsk,?
+1398,Russia,Pskov,?
+1399,Russia,Rostov-na-donu,101.44
+1400,Russia,Ryazan,83.28
+1401,Russia,Saint Petersburg,100.65
+1402,Russia,Samara,103.94
+1403,Russia,Saransk,?
+1404,Russia,Saratov,?
+1405,Russia,Sevastopol,130.65
+1406,Russia,Simferopol,?
+1407,Russia,Smolensk,?
+1408,Russia,Sochi,119.44
+1409,Russia,Stavropol,151.16
+1410,Russia,Taganrog,?
+1411,Russia,Tolyatti (Togliatti),?
+1412,Russia,Tomsk,104.13
+1413,Russia,Tula,?
+1414,Russia,Tyumen,?
+1415,Russia,Ulyanovsk,?
+1416,Russia,Vladivostok,82.31
+1417,Russia,Volgograd,78.91
+1418,Russia,Vologda,?
+1419,Russia,Voronezh,106.81
+1420,Russia,Yakutsk,?
+1421,Russia,Yaroslavl,91.88
+1422,Russia,Yekaterinburg,97.55
+1423,Russia,Yoshkar-Ola,?
+1424,Russia,Yuzhno-Sakhalinsk,?
+1425,Rwanda,Kigali,11.61
+1426,Saint Helena,Jamestown,?
+1427,Saint Lucia,Castries,?
+1428,San Marino,Domagnano,?
+1429,Saudi Arabia,Ad Dammam,146.72
+1430,Saudi Arabia,Al Khobar,172.34
+1431,Saudi Arabia,Al-khubar,?
+1432,Saudi Arabia,Buraydah,?
+1433,Saudi Arabia,Jeddah (Jiddah),148.57
+1434,Saudi Arabia,Jubail,136.07
+1435,Saudi Arabia,Mecca,166.12
+1436,Saudi Arabia,Medina,?
+1437,Saudi Arabia,Najran,?
+1438,Saudi Arabia,Riyadh,154.48
+1439,Saudi Arabia,Tabuk,?
+1440,Saudi Arabia,Yanbu' Al Bahr,?
+1441,Senegal,Dakar,0.00
+1442,Serbia,Belgrade,112.63
+1443,Serbia,Cuprija,?
+1444,Serbia,Indjija,?
+1445,Serbia,Jagodina,?
+1446,Serbia,Kragujevac,?
+1447,Serbia,Leskovac,?
+1448,Serbia,Novi Sad,133.18
+1449,Serbia,Pancevo,?
+1450,Serbia,Sabac,133.25
+1451,Serbia,Sremska Mitrovica,?
+1452,Serbia,Stara Pazova,?
+1453,Serbia,Subotica,137.68
+1454,Serbia,Zrenjanin,95.79
+1455,Seychelles,Victoria,127.93
+1456,Singapore,Singapore,161.33
+1457,Sint Maarten,Philipsburg,?
+1458,Slovakia,Bratislava,149.89
+1459,Slovakia,Kosice,144.60
+1460,Slovakia,Martin,?
+1461,Slovakia,Nitra,?
+1462,Slovakia,Nove Zamky,?
+1463,Slovakia,Poprad,?
+1464,Slovakia,Presov,152.09
+1465,Slovakia,Prievidza,?
+1466,Slovakia,Trencin,?
+1467,Slovakia,Trnava,?
+1468,Slovakia,Zilina,156.38
+1469,Slovenia,Celje,151.29
+1470,Slovenia,Izola,?
+1471,Slovenia,Koper,178.98
+1472,Slovenia,Kranj,175.52
+1473,Slovenia,Ljubljana,168.76
+1474,Slovenia,Maribor,179.16
+1475,Slovenia,Nova Gorica,?
+1476,Slovenia,Velenje,?
+1477,Solomon Islands,Honiara,?
+1478,Somalia,Mogadishu,?
+1479,South Africa,Alberton,?
+1480,South Africa,Bellville,?
+1481,South Africa,Benoni,?
+1482,South Africa,Bloemfontein,?
+1483,South Africa,Boksburg,?
+1484,South Africa,Cape Town,149.53
+1485,South Africa,Centurion (Verwoerdburg),?
+1486,South Africa,Durban,140.43
+1487,South Africa,East London,?
+1488,South Africa,George,?
+1489,South Africa,Hermanus,?
+1490,South Africa,Johannesburg,138.67
+1491,South Africa,Kempton Park,?
+1492,South Africa,Klerksdorp,?
+1493,South Africa,Knysna,?
+1494,South Africa,Krugersdorp,?
+1495,South Africa,Midrand,?
+1496,South Africa,Mossel Bay,?
+1497,South Africa,Nelspruit,?
+1498,South Africa,Paarl,?
+1499,South Africa,Pietermaritzburg,?
+1500,South Africa,Port Elizabeth,?
+1501,South Africa,Potchefstroom,?
+1502,South Africa,Pretoria,138.21
+1503,South Africa,Randburg,?
+1504,South Africa,Richards Bay,?
+1505,South Africa,Rustenburg,?
+1506,South Africa,Sandton,174.42
+1507,South Africa,Secunda,?
+1508,South Africa,Somerset West,189.26
+1509,South Africa,Stellenbosch,?
+1510,South Africa,Vanderbijlpark,?
+1511,South Africa,Vereeniging,?
+1512,South Africa,Welkom,?
+1513,South Korea,Ansan,?
+1514,South Korea,Busan,163.86
+1515,South Korea,Cheonan,?
+1516,South Korea,Cheongju,?
+1517,South Korea,Chuncheon,142.84
+1518,South Korea,Daegu,152.75
+1519,South Korea,Daejeon,165.26
+1520,South Korea,Incheon,158.03
+1521,South Korea,Jeju,?
+1522,South Korea,Jeonju,?
+1523,South Korea,Pohang,?
+1524,South Korea,Seongnam,?
+1525,South Korea,Seoul,127.87
+1526,South Korea,Ulsan,?
+1527,South Sudan,Juba,?
+1528,Spain,Albacete,?
+1529,Spain,Alicante,187.10
+1530,Spain,Almeria,160.40
+1531,Spain,Badajoz,209.87
+1532,Spain,Barakaldo,?
+1533,Spain,Barcelona,144.51
+1534,Spain,Bilbao,171.12
+1535,Spain,Burgos,207.37
+1536,Spain,Canary Islands,?
+1537,Spain,Cartagena,202.38
+1538,Spain,Castello de la Plana,?
+1539,Spain,Ceuta,?
+1540,Spain,Ciudad Real,?
+1541,Spain,Cordoba,?
+1542,Spain,Corralejo,?
+1543,Spain,Corunna,188.29
+1544,Spain,Denia,?
+1545,Spain,Elche,?
+1546,Spain,Gandia,?
+1547,Spain,Getafe,?
+1548,Spain,Gijon,183.92
+1549,Spain,Girona,207.50
+1550,Spain,Granada,181.86
+1551,Spain,Huelva,?
+1552,Spain,Ibiza,157.68
+1553,Spain,Jerez de la Frontera,?
+1554,Spain,La Linea de la Concepcion,?
+1555,Spain,Las Palmas de Gran Canaria,159.41
+1556,Spain,Leon,193.93
+1557,Spain,Lerida (Lleida),?
+1558,Spain,Logroño (Logrono),224.67
+1559,Spain,Madrid,161.92
+1560,Spain,Malaga,187.32
+1561,Spain,Marbella,183.44
+1562,Spain,Murcia,156.83
+1563,Spain,Ourense (Ourense),?
+1564,Spain,Oviedo,220.97
+1565,Spain,Palma de Mallorca,172.90
+1566,Spain,Pamplona,241.07
+1567,Spain,Pontevedra,?
+1568,Spain,Pozuelo de Alarcon,?
+1569,Spain,Puerto de la Cruz,?
+1570,Spain,Sabadell,140.30
+1571,Spain,Salamanca,?
+1572,Spain,San Sebastian,?
+1573,Spain,Santa Cruz de Tenerife,168.39
+1574,Spain,Santander,210.13
+1575,Spain,Santiago de Compostela,206.55
+1576,Spain,Seville (Sevilla),168.79
+1577,Spain,Tarragona,182.34
+1578,Spain,Toledo,?
+1579,Spain,Torrevieja,?
+1580,Spain,Valencia,172.66
+1581,Spain,Valladolid,183.31
+1582,Spain,Vigo,196.57
+1583,Spain,Vitoria-Gasteiz,207.94
+1584,Spain,Zaragoza (Saragossa),190.97
+1585,Sri Lanka,Colombo,65.05
+1586,Sri Lanka,Galle,?
+1587,Sri Lanka,Gampaha,?
+1588,Sri Lanka,Jaffna,?
+1589,Sri Lanka,Kandy,?
+1590,Sri Lanka,Maharagama,?
+1591,Sri Lanka,Negombo,?
+1592,Sri Lanka,Nuwara Eliya,?
+1593,Sri Lanka,Panadura,?
+1594,Sri Lanka,Sri Jayawardenepura Kotte,?
+1595,Sudan,Khartoum,58.29
+1596,Suriname,Paramaribo,99.93
+1597,Swaziland,Manzini,?
+1598,Swaziland,Mbabane,195.26
+1599,Sweden,Boras,149.40
+1600,Sweden,Falun,?
+1601,Sweden,Gothenburg,182.52
+1602,Sweden,Helsingborg,172.02
+1603,Sweden,Hässleholm,?
+1604,Sweden,Kalmar,191.85
+1605,Sweden,Karlskrona,?
+1606,Sweden,Karlstad,?
+1607,Sweden,Linkoping,193.18
+1608,Sweden,Lund,183.30
+1609,Sweden,Malmo,187.44
+1610,Sweden,Norrkoping,179.02
+1611,Sweden,Nyköping,?
+1612,Sweden,Orebro,192.10
+1613,Sweden,Ostersund (Östersund),?
+1614,Sweden,Skovde,?
+1615,Sweden,Solna,?
+1616,Sweden,Stockholm,166.80
+1617,Sweden,Sundsvall,192.92
+1618,Sweden,Umea,197.58
+1619,Sweden,Uppsala,190.06
+1620,Sweden,Varberg,?
+1621,Sweden,Vasteras,159.22
+1622,Sweden,Vaxjo,175.55
+1623,Switzerland,Baden,?
+1624,Switzerland,Basel,205.00
+1625,Switzerland,Bern,213.04
+1626,Switzerland,Biel,?
+1627,Switzerland,Fribourg,209.15
+1628,Switzerland,Geneva,189.52
+1629,Switzerland,La Chaux-de-Fonds,?
+1630,Switzerland,Lausanne,181.59
+1631,Switzerland,Lucerne,182.28
+1632,Switzerland,Lugano,192.03
+1633,Switzerland,Neuchatel,?
+1634,Switzerland,Nyon,?
+1635,Switzerland,Sion,?
+1636,Switzerland,St. Gallen,?
+1637,Switzerland,Thun,?
+1638,Switzerland,Vevey,?
+1639,Switzerland,Winterthur,210.12
+1640,Switzerland,Zurich,197.93
+1641,Syria,Aleppo,?
+1642,Syria,Damascus,0.00
+1643,Syria,Tartus,63.16
+1644,Taiwan,Hsichih,?
+1645,Taiwan,HsinChu,193.94
+1646,Taiwan,Kaohsiung,145.17
+1647,Taiwan,Keelung,?
+1648,Taiwan,Miaoli,?
+1649,Taiwan,New Taipei City,120.55
+1650,Taiwan,Taichung,138.91
+1651,Taiwan,Tainan,?
+1652,Taiwan,Taipei,150.82
+1653,Taiwan,Taoyuan,?
+1654,Taiwan,Zhongli City (Jhongli),?
+1655,Tajikistan,Dushanbe,97.23
+1656,Tanzania,Dar es Salaam,14.63
+1657,Tanzania,Mwanza,?
+1658,Thailand,Bangkok,82.28
+1659,Thailand,Chiang Mai,129.75
+1660,Thailand,Chiang Rai,?
+1661,Thailand,Hat Yai,?
+1662,Thailand,Hua Hin,119.82
+1663,Thailand,Khon Kaen,?
+1664,Thailand,Koh Samui,?
+1665,Thailand,Nonthaburi,131.39
+1666,Thailand,Pattaya,96.89
+1667,Thailand,Phuket,111.92
+1668,Thailand,Rayong,?
+1669,Thailand,Surin,?
+1670,Thailand,Udon Thani,?
+1671,Timor-Leste,Dili,?
+1672,Trinidad And Tobago,Chaguanas,76.53
+1673,Trinidad And Tobago,Couva,?
+1674,Trinidad And Tobago,Port of Spain,80.68
+1675,Trinidad And Tobago,San Fernando,?
+1676,Tunisia,Al Marsa,?
+1677,Tunisia,Aryanah (Ariana),123.43
+1678,Tunisia,Ben Arous,94.42
+1679,Tunisia,Djerba,149.38
+1680,Tunisia,El Kef,?
+1681,Tunisia,Gabes,82.76
+1682,Tunisia,Jendouba,?
+1683,Tunisia,Sfax,102.30
+1684,Tunisia,Sousse,121.84
+1685,Tunisia,Tunis,106.43
+1686,Turkey,Adana,144.89
+1687,Turkey,Alanya,?
+1688,Turkey,Ankara,128.92
+1689,Turkey,Antalya,147.32
+1690,Turkey,Aydin,?
+1691,Turkey,Balikesir,?
+1692,Turkey,Bolu,?
+1693,Turkey,Bursa,149.15
+1694,Turkey,Canakkale,177.99
+1695,Turkey,Denizli,127.08
+1696,Turkey,Edirne,?
+1697,Turkey,Eskisehir,148.74
+1698,Turkey,Fethiye,?
+1699,Turkey,Gaziantep,130.77
+1700,Turkey,Gebze,?
+1701,Turkey,Isparta,?
+1702,Turkey,Istanbul,97.51
+1703,Turkey,Izmir,133.43
+1704,Turkey,Kahramanmaras,136.27
+1705,Turkey,Karabuk,?
+1706,Turkey,Kayseri,128.89
+1707,Turkey,Kocaeli,111.59
+1708,Turkey,Konya,116.05
+1709,Turkey,Malatya,143.09
+1710,Turkey,Manisa,112.96
+1711,Turkey,Marmaris,?
+1712,Turkey,Mersin,?
+1713,Turkey,Sakarya,?
+1714,Turkey,Samsun,?
+1715,Turkey,Tekirdag,?
+1716,Turkey,Trabzon,172.00
+1717,Turkey,Yalova,?
+1718,Turkey,Yozgat,?
+1719,Turkmenistan,Ashgabat,106.49
+1720,Uganda,Kampala,19.61
+1721,Ukraine,Cherkasy,?
+1722,Ukraine,Chernihiv,?
+1723,Ukraine,Chernivtsi,193.23
+1724,Ukraine,Dnipro,98.59
+1725,Ukraine,Donetsk,?
+1726,Ukraine,Ivano-Frankivsk,117.36
+1727,Ukraine,Kharkiv,111.77
+1728,Ukraine,Kherson,?
+1729,Ukraine,Khmelnytskyi,?
+1730,Ukraine,Kiev (Kyiv),107.66
+1731,Ukraine,Kryvyy Rih,?
+1732,Ukraine,Lugansk,?
+1733,Ukraine,Lutsk,?
+1734,Ukraine,Lviv,134.08
+1735,Ukraine,Mariupol,?
+1736,Ukraine,Mykolaiv,103.53
+1737,Ukraine,Odessa (Odesa),106.32
+1738,Ukraine,Poltava,?
+1739,Ukraine,Rivne,?
+1740,Ukraine,Sumy,?
+1741,Ukraine,Ternopil,154.85
+1742,Ukraine,Vinnytsia,?
+1743,Ukraine,Zaporizhzhya,89.54
+1744,Ukraine,Zhytomyr,?
+1745,United Arab Emirates,Abu Dhabi,184.00
+1746,United Arab Emirates,Ajman,167.93
+1747,United Arab Emirates,Al Ain,?
+1748,United Arab Emirates,Al Fujayrah,203.32
+1749,United Arab Emirates,Dubai,183.97
+1750,United Arab Emirates,Ras al-Khaimah,139.56
+1751,United Arab Emirates,Sharjah,126.93
+1752,United Kingdom,Aberdeen,194.41
+1753,United Kingdom,Andover,?
+1754,United Kingdom,Aylesbury,?
+1755,United Kingdom,Bangor,?
+1756,United Kingdom,Banstead,?
+1757,United Kingdom,Basildon,?
+1758,United Kingdom,Basingstoke,?
+1759,United Kingdom,Bath,169.89
+1760,United Kingdom,Bedford,172.31
+1761,United Kingdom,Belfast,168.40
+1762,United Kingdom,Birmingham,155.83
+1763,United Kingdom,Blackpool,?
+1764,United Kingdom,Bolton,?
+1765,United Kingdom,Bournemouth,163.33
+1766,United Kingdom,Bradford,133.58
+1767,United Kingdom,Brighton,173.40
+1768,United Kingdom,Bristol,167.61
+1769,United Kingdom,Cambridge,181.08
+1770,United Kingdom,Canterbury,174.73
+1771,United Kingdom,Cardiff,174.41
+1772,United Kingdom,Carlisle,?
+1773,United Kingdom,Chelmsford,?
+1774,United Kingdom,Cheltenham,?
+1775,United Kingdom,Chester,203.04
+1776,United Kingdom,Colchester,179.47
+1777,United Kingdom,Coventry,162.48
+1778,United Kingdom,Crawley,?
+1779,United Kingdom,Croydon,?
+1780,United Kingdom,Cumbernauld,?
+1781,United Kingdom,Darlington,?
+1782,United Kingdom,Derby,183.98
+1783,United Kingdom,Doncaster,?
+1784,United Kingdom,Dudley,?
+1785,United Kingdom,Dundee,?
+1786,United Kingdom,Dunfermline,?
+1787,United Kingdom,Durham,?
+1788,United Kingdom,Ealing,?
+1789,United Kingdom,Eastbourne,?
+1790,United Kingdom,Edinburgh,189.28
+1791,United Kingdom,Exeter,?
+1792,United Kingdom,Folkestone,?
+1793,United Kingdom,Glasgow,181.36
+1794,United Kingdom,Guildford,191.00
+1795,United Kingdom,Halifax,?
+1796,United Kingdom,Harrogate,?
+1797,United Kingdom,Harrow,?
+1798,United Kingdom,Hereford,?
+1799,United Kingdom,High Wycombe,?
+1800,United Kingdom,Horsham,?
+1801,United Kingdom,Huddersfield,?
+1802,United Kingdom,Inverness,?
+1803,United Kingdom,Ipswich,?
+1804,United Kingdom,Isle of Wight,?
+1805,United Kingdom,"Kilmarnock, East Ayrshire",?
+1806,United Kingdom,King's Lynn,?
+1807,United Kingdom,Kingston upon Hull,159.29
+1808,United Kingdom,Kingston upon Thames,172.94
+1809,United Kingdom,Leeds,166.44
+1810,United Kingdom,Leicester,180.50
+1811,United Kingdom,Letchworth,?
+1812,United Kingdom,Lincoln,?
+1813,United Kingdom,Liverpool,171.08
+1814,United Kingdom,London,130.08
+1815,United Kingdom,Londonderry,?
+1816,United Kingdom,Luton,169.20
+1817,United Kingdom,Maidstone,137.66
+1818,United Kingdom,Manchester,150.74
+1819,United Kingdom,Middlesbrough,196.09
+1820,United Kingdom,Milton Keynes,?
+1821,United Kingdom,Newbury,?
+1822,United Kingdom,Newcastle upon Tyne,?
+1823,United Kingdom,Newport,?
+1824,United Kingdom,Northampton,?
+1825,United Kingdom,Norwich,181.49
+1826,United Kingdom,Nottingham,162.27
+1827,United Kingdom,Oxford,174.47
+1828,United Kingdom,Perth,?
+1829,United Kingdom,Peterborough,?
+1830,United Kingdom,Plymouth,170.60
+1831,United Kingdom,Portsmouth,197.36
+1832,United Kingdom,Preston,?
+1833,United Kingdom,Reading,167.83
+1834,United Kingdom,Rochester,?
+1835,United Kingdom,Romford,?
+1836,United Kingdom,Rotherham,?
+1837,United Kingdom,Royal Leamington Spa,?
+1838,United Kingdom,Sheffield,173.99
+1839,United Kingdom,"Shrewsbury, Shropshire",182.17
+1840,United Kingdom,Slough,?
+1841,United Kingdom,Southampton,169.38
+1842,United Kingdom,Southend-on-Sea,?
+1843,United Kingdom,St Albans,168.88
+1844,United Kingdom,Stirling,?
+1845,United Kingdom,Stockport,?
+1846,United Kingdom,Stoke-on-Trent,183.88
+1847,United Kingdom,Sunderland,?
+1848,United Kingdom,Surrey,?
+1849,United Kingdom,Swansea,184.57
+1850,United Kingdom,Swindon,178.95
+1851,United Kingdom,Telford,?
+1852,United Kingdom,Tottenham,?
+1853,United Kingdom,Tunbridge Wells,?
+1854,United Kingdom,Twickenham,?
+1855,United Kingdom,Wakefield,?
+1856,United Kingdom,Warrington,?
+1857,United Kingdom,Warwick,?
+1858,United Kingdom,Wigan,?
+1859,United Kingdom,Winchester,?
+1860,United Kingdom,Wokingham,?
+1861,United Kingdom,Wolverhampton,?
+1862,United Kingdom,Worcester,?
+1863,United Kingdom,Worthing,?
+1864,United Kingdom,York,207.65
+1865,United States,"Aberdeen, SD",?
+1866,United States,"Adelanto, CA",?
+1867,United States,"Adrian, MI",?
+1868,United States,"Akron, OH",?
+1869,United States,"Alameda, CA",?
+1870,United States,"Albany, NY",187.52
+1871,United States,"Albany, OR",?
+1872,United States,"Albuquerque, NM",178.06
+1873,United States,"Alexandria, VA",177.27
+1874,United States,"Aliso Viejo, CA",?
+1875,United States,"Allen, TX",?
+1876,United States,"Allentown, PA",?
+1877,United States,"Alpharetta, GA",?
+1878,United States,"Amarillo, TX",?
+1879,United States,"Ames, IA",?
+1880,United States,"Amherst, MA",?
+1881,United States,"Anaheim, CA",?
+1882,United States,"Anchorage, AK",171.06
+1883,United States,"Ann Arbor, MI",194.49
+1884,United States,"Annapolis, MD",?
+1885,United States,"Antioch, CA",?
+1886,United States,"Apple Valley, CA",?
+1887,United States,"Appleton, WI",?
+1888,United States,"Arlington, TX",?
+1889,United States,"Arlington, VA",?
+1890,United States,"Ashburn, VA",?
+1891,United States,"Asheville, NC",176.34
+1892,United States,"Athens, GA",?
+1893,United States,"Atlanta, GA",171.68
+1894,United States,"Atlantic City, NJ",?
+1895,United States,"Augusta, GA",?
+1896,United States,"Aurora, CO",?
+1897,United States,"Aurora, IL",?
+1898,United States,"Austin, TX",193.35
+1899,United States,"Bakersfield, CA",?
+1900,United States,"Baltimore, MD",161.77
+1901,United States,"Bangor, ME",?
+1902,United States,"Baton Rouge, LA",150.12
+1903,United States,"Beaumont, TX",?
+1904,United States,"Beaverton, OR",?
+1905,United States,"Bellevue, WA",223.44
+1906,United States,"Bellingham, WA",?
+1907,United States,"Bend, OR",181.63
+1908,United States,"Bentonville, AR",?
+1909,United States,"Berkeley, CA",170.50
+1910,United States,"Beverly Hills, CA",?
+1911,United States,"Billings, MT",?
+1912,United States,"Binghamton, NY",?
+1913,United States,"Birmingham, AL",164.38
+1914,United States,"Bismarck, ND",?
+1915,United States,"Blacksburg, VA",?
+1916,United States,"Bloomington, IL",?
+1917,United States,"Bloomington, IN",170.54
+1918,United States,"Boca Raton, FL",?
+1919,United States,"Boise, ID",164.46
+1920,United States,"Boone, NC",?
+1921,United States,"Boston, MA",169.94
+1922,United States,"Boulder, CO",?
+1923,United States,"Bowling Green, KY",?
+1924,United States,"Bozeman, MT",?
+1925,United States,"Bradenton, FL",?
+1926,United States,"Bremerton, WA",?
+1927,United States,"Bronx, NY",?
+1928,United States,"Brooklyn, NY",?
+1929,United States,"Brownsville, TX",?
+1930,United States,"Brunswick, ME",?
+1931,United States,"Buffalo, NY",173.84
+1932,United States,"Burlington, VT",?
+1933,United States,"Butte, MT",?
+1934,United States,"Cambridge, MA",202.40
+1935,United States,"Canton, OH",?
+1936,United States,"Carlsbad, CA",?
+1937,United States,"Carson City, NV",?
+1938,United States,"Casper, WY",?
+1939,United States,"Cedar Rapids, IA",?
+1940,United States,"Champaign, IL",?
+1941,United States,"Chandler, AZ",189.59
+1942,United States,"Chapel Hill, NC",?
+1943,United States,"Charleston, SC",?
+1944,United States,"Charleston, WV",?
+1945,United States,"Charlotte, NC",187.76
+1946,United States,"Charlottesville, VA",?
+1947,United States,"Chattanooga, TN",178.94
+1948,United States,"Cherry Hill, NJ",?
+1949,United States,"Chesapeake, VA",?
+1950,United States,"Cheyenne, WY",?
+1951,United States,"Chicago, IL",148.74
+1952,United States,"Chico, CA",?
+1953,United States,"Chula Vista, CA",?
+1954,United States,"Cincinnati, OH",174.03
+1955,United States,"Clarksville, TN",?
+1956,United States,"Clearwater, FL",?
+1957,United States,"Cleveland, OH",?
+1958,United States,"Coeur d'Alene, ID",?
+1959,United States,"College Park, MD",?
+1960,United States,"College Station, TX",?
+1961,United States,"Colorado Springs, CO",172.66
+1962,United States,"Columbia, MD",?
+1963,United States,"Columbia, MO",?
+1964,United States,"Columbia, SC",?
+1965,United States,"Columbus, GA",?
+1966,United States,"Columbus, OH",193.34
+1967,United States,"Concord, CA",?
+1968,United States,"Concord, NC",?
+1969,United States,"Cookeville, TN",?
+1970,United States,"Corpus Christi, TX",?
+1971,United States,"Corvallis, OR",?
+1972,United States,"Costa Mesa, CA",?
+1973,United States,"Crystal Lake, IL",?
+1974,United States,"Cumming, GA",?
+1975,United States,"Dallas, TX",179.45
+1976,United States,"Danbury, CT",?
+1977,United States,"Davenport, IA",?
+1978,United States,"Davis, CA",?
+1979,United States,"Dayton, OH",?
+1980,United States,"Daytona Beach, FL",161.07
+1981,United States,"DeKalb, IL",?
+1982,United States,"DeLand, FL",?
+1983,United States,"Deerfield Beach, FL",?
+1984,United States,"Del Rio, TX",?
+1985,United States,"Deltona, FL",?
+1986,United States,"Denton, TX",?
+1987,United States,"Denver, CO",171.69
+1988,United States,"Des Moines, IA",?
+1989,United States,"Detroit, MI",125.55
+1990,United States,"Dothan, AL",?
+1991,United States,"Dover, DE",?
+1992,United States,"Doylestown, PA",?
+1993,United States,"Duluth, GA",?
+1994,United States,"Duluth, MN",?
+1995,United States,"Durham, NC",?
+1996,United States,"East Providence, RI",?
+1997,United States,"Eau Claire, WI",?
+1998,United States,"Edison, NJ",?
+1999,United States,"El Cajon, CA",?
+2000,United States,"El Centro, CA",?
+2001,United States,"El Paso, TX",193.13
+2002,United States,"Elko, NV",?
+2003,United States,"Elmira, NY",?
+2004,United States,"Encinitas, CA",?
+2005,United States,"Erie, PA",139.27
+2006,United States,"Eugene, OR",?
+2007,United States,"Eureka, CA",173.29
+2008,United States,"Evanston, IL",?
+2009,United States,"Evansville, IN",?
+2010,United States,"Everett, WA",?
+2011,United States,"Fairbanks, AK",?
+2012,United States,"Fairfax, VA",?
+2013,United States,"Fairfield, CA",?
+2014,United States,"Fairfield, CT",?
+2015,United States,"Fargo, ND",181.11
+2016,United States,"Farmington Hills, MI",?
+2017,United States,"Farmington, NM",?
+2018,United States,"Fayetteville, AR",?
+2019,United States,"Fayetteville, NC",?
+2020,United States,"Flagstaff, AZ",?
+2021,United States,"Flint, MI",?
+2022,United States,"Florence, AL",?
+2023,United States,"Fort Collins, CO",?
+2024,United States,"Fort Lauderdale, FL",180.93
+2025,United States,"Fort Myers, FL",?
+2026,United States,"Fort Smith, AR",?
+2027,United States,"Fort Walton Beach, FL",?
+2028,United States,"Fort Wayne, IN",?
+2029,United States,"Fort Worth, TX",174.37
+2030,United States,"Franklin, TN",?
+2031,United States,"Frederick, MD",?
+2032,United States,"Fredericksburg, VA",?
+2033,United States,"Fremont, CA",205.10
+2034,United States,"Fresno, CA",150.59
+2035,United States,"Frisco, TX",?
+2036,United States,"Gadsden, AL",?
+2037,United States,"Gainesville, FL",?
+2038,United States,"Garden Grove, CA",?
+2039,United States,"Garland, TX",?
+2040,United States,"Germantown, MD",?
+2041,United States,"Germantown, TN",?
+2042,United States,"Gilbert, AZ",?
+2043,United States,"Glendale, CA",?
+2044,United States,"Goose Creek, SC",?
+2045,United States,"Grand Forks, ND",?
+2046,United States,"Grand Junction, CO",?
+2047,United States,"Grand Rapids, MI",190.15
+2048,United States,"Grants Pass, OR",?
+2049,United States,"Greeley, CO",?
+2050,United States,"Green Bay, WI",?
+2051,United States,"Greensboro, NC",?
+2052,United States,"Greensburg, PA",?
+2053,United States,"Greenville, NC",?
+2054,United States,"Greenville, SC",213.71
+2055,United States,"Gresham, OR",?
+2056,United States,"Gulfport, MS",?
+2057,United States,"Hagerstown, MD",?
+2058,United States,"Harrisburg, PA",?
+2059,United States,Harrisonburg va,?
+2060,United States,"Hartford, CT",134.38
+2061,United States,"Hempstead, NY",?
+2062,United States,"Henderson, NV",184.67
+2063,United States,"Herndon, VA",?
+2064,United States,"High Point, NC",?
+2065,United States,"Hillsboro, OR",?
+2066,United States,"Hilo, HI",?
+2067,United States,"Hoboken, NJ",?
+2068,United States,"Hollywood, FL",?
+2069,United States,"Honolulu, HI",162.33
+2070,United States,"Houston, TX",169.11
+2071,United States,"Huntington Beach, CA",?
+2072,United States,"Huntington, WV",?
+2073,United States,"Huntsville, AL",204.60
+2074,United States,"Huntsville, TX",?
+2075,United States,"Idaho Falls, ID",?
+2076,United States,"Indianapolis, IN",173.18
+2077,United States,"Iowa City, IA",183.86
+2078,United States,"Irvine, CA",206.56
+2079,United States,"Irving, TX",208.13
+2080,United States,"Ithaca, NY",?
+2081,United States,"Jackson, MS",?
+2082,United States,"Jackson, TN",?
+2083,United States,"Jackson, WY",?
+2084,United States,"Jacksonville, FL",175.31
+2085,United States,"Jacksonville, NC",?
+2086,United States,"Jersey City, NJ",158.21
+2087,United States,"Johnson City, TN",?
+2088,United States,"Jonesboro, AR",?
+2089,United States,"Joplin, MO",?
+2090,United States,"Juneau, AK",?
+2091,United States,"Jupiter, FL",?
+2092,United States,"Kalamazoo, MI",?
+2093,United States,"Kansas City, KS",?
+2094,United States,"Kansas City, MO",180.98
+2095,United States,"Katy, TX",?
+2096,United States,"Kearney, NE",?
+2097,United States,"Kennewick, WA",?
+2098,United States,"Kent, WA",?
+2099,United States,"Key West, FL",?
+2100,United States,"Killeen, TX",?
+2101,United States,"Kingman, AZ",?
+2102,United States,"Kingsport, TN",?
+2103,United States,"Kissimmee, FL",?
+2104,United States,"Knoxville, TN",?
+2105,United States,"Kokomo, IN",?
+2106,United States,"Lafayette, IN",?
+2107,United States,"Lafayette, LA",?
+2108,United States,"Lake Charles, LA",?
+2109,United States,"Lakeland, FL",?
+2110,United States,"Lancaster, CA",?
+2111,United States,"Lancaster, PA",?
+2112,United States,"Lansing, MI",?
+2113,United States,"Laredo, TX",?
+2114,United States,"Las Cruces, NM",?
+2115,United States,"Las Vegas, NV",151.52
+2116,United States,"Lawton, OK",?
+2117,United States,"Lewiston, ID",?
+2118,United States,"Lexington Park, MD",?
+2119,United States,"Lexington, KY",184.60
+2120,United States,"Lincoln, NE",?
+2121,United States,"Little Rock, AR",202.14
+2122,United States,"Livermore, CA",?
+2123,United States,"Logan, UT",?
+2124,United States,"London, KY",?
+2125,United States,"Long Beach, CA",168.08
+2126,United States,"Long Island, NY",?
+2127,United States,"Longview, TX",?
+2128,United States,"Longview, WA",?
+2129,United States,"Los Angeles, CA",138.73
+2130,United States,"Louisville, KY",?
+2131,United States,"Loveland, CO",?
+2132,United States,"Lubbock, TX",?
+2133,United States,"Lynchburg, VA",?
+2134,United States,"Macon, GA",?
+2135,United States,"Madison, WI",192.98
+2136,United States,"Manassas, VA",?
+2137,United States,"Manchester, NH",?
+2138,United States,"Mandeville, LA",?
+2139,United States,"Mansfield, OH",?
+2140,United States,"Marietta, GA",?
+2141,United States,"McAllen, TX",?
+2142,United States,"McKinney, TX",?
+2143,United States,"Medford, OR",?
+2144,United States,"Melbourne, FL",?
+2145,United States,"Memphis, TN",?
+2146,United States,"Mesa, AZ",160.86
+2147,United States,"Miami, FL",154.82
+2148,United States,"Middletown, NJ",?
+2149,United States,"Midland, MI",?
+2150,United States,"Midland, TX",?
+2151,United States,"Milwaukee, WI",?
+2152,United States,"Minneapolis, MN",174.83
+2153,United States,"Missoula, MT",?
+2154,United States,"Mobile, AL",?
+2155,United States,"Modesto, CA",?
+2156,United States,"Monterey, CA",?
+2157,United States,"Montgomery, AL",156.51
+2158,United States,"Mooresville, NC",?
+2159,United States,"Morgantown, WV",?
+2160,United States,"Morristown, NJ",?
+2161,United States,"Moscow, ID",?
+2162,United States,"Mountain View, CA",?
+2163,United States,"Murfreesboro, TN",?
+2164,United States,"Murrieta, CA",?
+2165,United States,"Muskegon, MI",?
+2166,United States,"Myrtle Beach, SC",?
+2167,United States,"Napa, CA",?
+2168,United States,"Naperville, IL",?
+2169,United States,"Naples, FL",?
+2170,United States,"Nashua, NH",?
+2171,United States,"Nashville, TN",176.38
+2172,United States,"New Bedford, MA",?
+2173,United States,"New Bern, NC",?
+2174,United States,"New Braunfels, TX",?
+2175,United States,"New City, NY",?
+2176,United States,"New Haven, CT",?
+2177,United States,"New Orleans, LA",146.31
+2178,United States,"New Port Richey, FL",?
+2179,United States,"New York, NY",134.99
+2180,United States,"Newark, NJ",?
+2181,United States,"Newport Beach, CA",?
+2182,United States,"Newport News, VA",?
+2183,United States,"Newport, RI",?
+2184,United States,"Newton, MA",?
+2185,United States,"Norfolk, VA",?
+2186,United States,"Norman, OK",?
+2187,United States,"Norwalk, CT",?
+2188,United States,"Oakland, CA",160.12
+2189,United States,"Ocala, FL",?
+2190,United States,"Oceanside, CA",?
+2191,United States,"Odessa, TX",?
+2192,United States,"Ogden, UT",?
+2193,United States,"Oklahoma City, OK",183.81
+2194,United States,"Olympia, WA",218.68
+2195,United States,"Omaha, NE",184.84
+2196,United States,"Ontario,CA",?
+2197,United States,"Orem, UT",?
+2198,United States,"Orlando, FL",184.49
+2199,United States,"Oshkosh, WI",?
+2200,United States,"Overland Park, KS",?
+2201,United States,"Owensboro, KY",?
+2202,United States,"Palm Coast, FL",?
+2203,United States,"Palm Springs, CA",169.56
+2204,United States,"Palmdale, CA",?
+2205,United States,"Palo Alto, CA",?
+2206,United States,"Panama City, FL",?
+2207,United States,"Parsippany-Troy Hills, NJ",?
+2208,United States,"Pasadena, CA",180.58
+2209,United States,"Pensacola, FL",?
+2210,United States,"Peoria, AZ",?
+2211,United States,"Peoria, IL",?
+2212,United States,"Philadelphia, PA",151.87
+2213,United States,"Phoenix, AZ",159.88
+2214,United States,"Pittsburgh, PA",171.00
+2215,United States,"Plano, TX",205.78
+2216,United States,"Pleasanton, CA",225.98
+2217,United States,"Plymouth, MI",?
+2218,United States,"Pocatello, ID",?
+2219,United States,"Pomona, CA",?
+2220,United States,"Port St Lucie, FL",192.78
+2221,United States,"Portland, ME",?
+2222,United States,"Portland, OR",178.48
+2223,United States,"Poughkeepsie, NY",?
+2224,United States,"Prescott, AZ",?
+2225,United States,"Princeton, NJ",186.64
+2226,United States,"Providence, RI",162.59
+2227,United States,"Pueblo, CO",?
+2228,United States,"Puyallup, WA",?
+2229,United States,"Queens, NY",?
+2230,United States,"Raleigh, NC",203.11
+2231,United States,"Rancho Cucamonga, CA",?
+2232,United States,"Rapid City, SD",?
+2233,United States,"Reading, PA",?
+2234,United States,"Redding, CA",149.29
+2235,United States,"Redmond, WA",?
+2236,United States,"Redondo Beach, CA",?
+2237,United States,"Redwood City, CA",?
+2238,United States,"Reno, NV",168.65
+2239,United States,"Renton, WA",?
+2240,United States,"Reston, VA",?
+2241,United States,"Richland, WA",?
+2242,United States,"Richmond, KY",?
+2243,United States,"Richmond, VA",?
+2244,United States,"Riverside, CA",?
+2245,United States,"Roanoke, VA",?
+2246,United States,"Rochester, MN",?
+2247,United States,"Rochester, NY",?
+2248,United States,"Rock Hill, SC",?
+2249,United States,"Rockford, IL",?
+2250,United States,"Rocklin, CA",?
+2251,United States,"Rockville, MD",198.99
+2252,United States,"Rogers, AR",?
+2253,United States,"Roseville, CA",?
+2254,United States,"Sacramento, CA",167.47
+2255,United States,"Saginaw, MI",?
+2256,United States,"Saint Charles, MO",?
+2257,United States,"Saint George, UT",?
+2258,United States,"Saint Louis, MO",?
+2259,United States,"Saint Paul, MN",?
+2260,United States,"Saint Petersburg, FL",?
+2261,United States,"Salem, OR",195.32
+2262,United States,"Salisbury, MD",?
+2263,United States,"Salt Lake City, UT",168.92
+2264,United States,"San Angelo, TX",?
+2265,United States,"San Antonio, TX",191.30
+2266,United States,"San Bernardino, CA",?
+2267,United States,"San Diego, CA",183.60
+2268,United States,"San Francisco, CA",146.68
+2269,United States,"San Jose, CA",177.05
+2270,United States,"San Luis Obispo, CA",?
+2271,United States,"San Marcos, TX",?
+2272,United States,"San Mateo, CA",?
+2273,United States,"San Rafael, CA",?
+2274,United States,"Sandpoint, ID",?
+2275,United States,"Santa Ana, CA",?
+2276,United States,"Santa Barbara, CA",190.12
+2277,United States,"Santa Clara, CA",206.47
+2278,United States,"Santa Cruz, CA",172.11
+2279,United States,"Santa Fe, NM",167.80
+2280,United States,"Santa Monica, CA",?
+2281,United States,"Santa Rosa, CA",?
+2282,United States,"Sarasota, FL",179.05
+2283,United States,"Satellite Beach, FL",?
+2284,United States,"Savannah, GA",?
+2285,United States,"Scottsdale, AZ",?
+2286,United States,"Scranton, PA",?
+2287,United States,"Seattle, WA",185.83
+2288,United States,"Sheboygan, WI",?
+2289,United States,"Shreveport, LA",?
+2290,United States,"Sierra Vista, AZ",?
+2291,United States,"Silver Spring, MD",?
+2292,United States,"Simi Valley, CA",?
+2293,United States,"Sioux City, IA",?
+2294,United States,"Sioux Falls, SD",?
+2295,United States,"Smithtown, NY",?
+2296,United States,"Somerville, MA",?
+2297,United States,"South Bend, IN",?
+2298,United States,"Spartanburg, SC",?
+2299,United States,"Spokane, WA",171.19
+2300,United States,"Spring Hill, FL",?
+2301,United States,"Springfield, IL",?
+2302,United States,"Springfield, MA",?
+2303,United States,"Springfield, MO",172.15
+2304,United States,"Springfield, VA",?
+2305,United States,"Spruce Pine, NC",?
+2306,United States,"Stamford, CT",?
+2307,United States,"State College, PA",?
+2308,United States,"Statesboro, GA",?
+2309,United States,"Stillwater, OK",?
+2310,United States,"Stockton, CA",?
+2311,United States,"Sugar Land, TX",?
+2312,United States,"Summit, NJ",?
+2313,United States,"Sunnyvale, CA",214.50
+2314,United States,"Surprise, AZ",?
+2315,United States,"Syracuse, NY",?
+2316,United States,"Tacoma, WA",169.44
+2317,United States,"Tallahassee, FL",?
+2318,United States,"Tampa, FL",185.70
+2319,United States,"Temecula, CA",?
+2320,United States,"Tempe, AZ",?
+2321,United States,"Terre Haute, IN",?
+2322,United States,"The Woodlands, TX",?
+2323,United States,"Thousand Oaks, CA",?
+2324,United States,"Toledo, OH",?
+2325,United States,"Toms River, NJ",?
+2326,United States,"Topeka, KS",?
+2327,United States,"Torrance, CA",?
+2328,United States,"Traverse City, MI",?
+2329,United States,"Trenton, NJ",?
+2330,United States,"Tucson, AZ",?
+2331,United States,"Tulsa, OK",190.61
+2332,United States,"Tupelo, MS",?
+2333,United States,"Tuscaloosa, AL",?
+2334,United States,"Tyler, TX",?
+2335,United States,"Urbana, IL",?
+2336,United States,"Valdosta, GA",?
+2337,United States,"Vallejo, CA",?
+2338,United States,"Vancouver, WA",?
+2339,United States,"Venice, FL",?
+2340,United States,"Ventura, CA",?
+2341,United States,"Vero Beach, FL",?
+2342,United States,"Victoria, TX",?
+2343,United States,"Victorville, CA",?
+2344,United States,"Virginia Beach, VA",202.59
+2345,United States,"Waco, TX",?
+2346,United States,"Waldorf, MD",?
+2347,United States,"Walla Walla, WA",?
+2348,United States,"Walnut Creek, CA",?
+2349,United States,"Warner Robins, GA",?
+2350,United States,"Warrenton, VA",?
+2351,United States,"Washington, DC",169.08
+2352,United States,"Wasilla, AK",?
+2353,United States,"Waterbury, CT",?
+2354,United States,"Waukesha, WI",?
+2355,United States,"Wausau, WI",?
+2356,United States,"Wenatchee, WA",?
+2357,United States,"West Lafayette, IN",?
+2358,United States,"West Palm Beach, FL",?
+2359,United States,"Wheeling, WV",?
+2360,United States,"Wichita Falls, TX",?
+2361,United States,"Wichita, KS",188.81
+2362,United States,"Wilmington, DE",?
+2363,United States,"Wilmington, NC",?
+2364,United States,"Winston-Salem, NC",?
+2365,United States,"Worcester, MA",?
+2366,United States,"Yonkers, NY",?
+2367,United States,"York, PA",?
+2368,United States,"Youngstown, OH",?
+2369,United States,"Yucaipa, CA",?
+2370,United States,"Yuma, AZ",?
+2371,Uruguay,Atlantida,?
+2372,Uruguay,Maldonado,?
+2373,Uruguay,Montevideo,125.76
+2374,Us Virgin Islands,Christiansted,?
+2375,Uzbekistan,Tashkent,122.69
+2376,Vanuatu,Port Vila,?
+2377,Venezuela,Barcelona,?
+2378,Venezuela,Caracas,65.75
+2379,Venezuela,Puerto la Cruz,?
+2380,Venezuela,Valencia,?
+2381,Vietnam,Da Nang,128.91
+2382,Vietnam,Hanoi,98.33
+2383,Vietnam,Ho Chi Minh City,66.53
+2384,Yemen,Aden,?
+2385,Yemen,Sana (Sanaa),?
+2386,Yemen,Sanaa,?
+2387,Zambia,Lusaka,?
+2388,Zimbabwe,Harare,76.39
