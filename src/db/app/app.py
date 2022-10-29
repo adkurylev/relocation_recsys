@@ -12,6 +12,7 @@ from db import DBDriver
 class User(BaseModel):
     tg_id: int
 
+
 class Reaction(BaseModel):
     city_id: int
     score: int
@@ -38,9 +39,9 @@ def get_city():
     pass
 
 @app.post("/reaction")
-def add_reaction(request: Dict[Any, Any]):
+def add_reaction(request: Reaction):
     driver = DBDriver()
-    driver.add_reaction(**request)
+    driver.add_reaction(**request.__dict__)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
