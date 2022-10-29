@@ -26,8 +26,10 @@ class Reaction(Base):
     __tablename__ = "reaction"
     id = Column(Integer, primary_key=True)
     score = Column(Integer)
-    user_id = Column(Integer, "user.id")
-    city_id = Column(Integer, "city.id")
+    user_id = Column(Integer, ForeignKey("user.id"))
+    #@TODO add connection
+    #city_id = Column(Integer, ForeignKey("city.id"))
+    city_id = Column(Integer)
     create_dt = Column(DateTime(timezone=True), server_default=func.now())
 
 
@@ -35,15 +37,16 @@ class City(Base):
     __tablename__ = "city"
     id = Column(Integer, primary_key=True)
     description = Column(String)
-    reactions = relationship("Reaction")
+    #@TODO add connection
+    # reactions = relationship("Reaction")
 
 
 class DBDriver:
 
     def __init__(self):
+        self._database_url = self._get_db_url()
         self._engine = create_engine(self._database_url)
         self._sm = sessionmaker(bind=self._engine)
-        self._database_url = self._get_db_url()
         Base.metadata.create_all(self._engine)
 
     def _get_db_url(self):
@@ -64,16 +67,14 @@ class DBDriver:
         :param user:
         :return:
         """
-        new_user = User(
-            tg_id=int(user["tg_id"])
-        )
+        new_user = User(**user.__dict__)
 
         with self._sm() as session:
             session.add(new_user)
             session.commit()
             session.close()
 
-    def add_reaction(self, reaction: dict):
+    def add_reaction(self, city_id: int, tg_id: int, score: int):
         """
         Add user reaction
 
@@ -82,18 +83,19 @@ class DBDriver:
         """
         session = self._sm()
         user_id = session.query(User.id) \
-                         .filter(User.tg_id == reaction["tg_id"]) \
+                         .filter(User.tg_id == tg_id) \
                          .first()
 
         if user_id is None:
-            _logger.warning("User with Tg ID %s is not found.", repr(reaction["tg_id"]))
+            _logger.warning("User with Tg ID %s is not found.", repr(tg_id))
             session.close()
             return None
 
         user_id = user_id[0]
 
         reaction = Reaction(user_id=user_id,
-                            score=reaction["score"])
+                            score=score,
+                            city_id=city_id)
         session.add(reaction)
         session.commit()
         session.close()
