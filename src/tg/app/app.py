@@ -10,10 +10,15 @@ from aiogram.contrib.middlewares.logging import LoggingMiddleware
 from aiogram.dispatcher import Dispatcher
 from aiogram.utils.executor import start_webhook
 from utils import setup_logging
-from settings import BOT_TOKEN
+from settings import BOT_TOKEN, RECSYS_URL, RECSYS_PORT, DB_URL, DB_PORT
+import requests
 
 _logger = logging.getLogger(__name__)
 action_clb = CallbackData('action_callback', 'action')
+reaction_clb = CallbackData("reaction_callback", "score", "city_id")
+
+RECSYS_ADDRESS = RECSYS_URL+":"+RECSYS_PORT
+DB_ADDRESS = DB_URL+":"+DB_PORT
 
 
 def init_bot():
@@ -49,13 +54,41 @@ async def start(message: Message):
 
 @dp.callback_query_handler(action_clb.filter(action="register"))
 async def register(query: CallbackQuery):
+    r = requests.post(DB_ADDRESS+"/user", json={"tg_id": query.from_user["id"]})
     # @TODO: post user request
     await bot.send_message(query.from_user.id, text="Вы успешно зарегистрированы")
 
 
 @dp.callback_query_handler(action_clb.filter(action="get_recommendation"))
+@dp.callback_query_handler(reaction_clb.filter())
 async def show_city(query: CallbackQuery):
-    await bot.send_message(query.from_user.id, text="Щас что-нибудь поищу")
+
+    data = query.data.split(":")
+    if data[0] == "reaction_callback":
+        r = requests.post(DB_ADDRESS+"/reaction", json={"city_id": data[2], "score": data[1],
+                                                        "tg_id": query.from_user["id"]})
+        if r.status_code == 200:
+            query.answer("Записал")
+        else:
+            query.answer("Упс.. не смог сохранить результат")
+            _logger.error("Can not save reaction")
+
+    r = requests.get(RECSYS_ADDRESS+"/recommendation")
+    if r.status_code != 200:
+        bot.send_message(query.from_user.id, text="Упс... Что-то пошло не так. Попробуйте зайти позднее")
+        _logger.error("Recommendation service did not response properly")
+
+    content = r.json()
+    city_id = content["city_id"]
+    msg = "Город: {:s} \n Описание: {:s} \n Номер города {:s}" \
+        .format(content["city_name"], content["description"], city_id)
+
+    keyboard = InlineKeyboardMarkup() \
+                   .insert(InlineKeyboardButton(text="Up", callback_data=reaction_clb.new(score=1, city_id=city_id))) \
+                   .insert(InlineKeyboardButton(text="So so", callback_data=reaction_clb.new(score=0, city_id=city_id)))  \
+                   .insert(InlineKeyboardButton(text="Down", callback_data=reaction_clb.new(score=-1, city_id=city_id)))
+
+    await bot.send_message(query.from_user.id, text=msg, reply_markup=keyboard)
 
 
 async def on_shutdown(dp):
