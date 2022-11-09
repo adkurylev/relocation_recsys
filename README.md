@@ -29,3 +29,19 @@ Link - https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-da
 The website of the World Health Organization provides a wide range of datasets related to the health of the population of the countries of the world. The project used a dataset of air quality in cities around the world. The remaining datasets provided general information about the countries of the world, which is not enough for the task.
 
 
+## Run the app in development mode
+
+1. Pull and run postgres docker image.
+2. Add environment variables for src/db/app/app.py and run it. The application needs following envs:
+  - _DB_NAME_ is name of DB in postgres container;
+  - _DB_ADDRESS_ and _DB_PORT_ is path and port to get DB access (for local development is _localhost_ and 5432);
+  - _DB_USER_ and _DB_PASSWORD_ are credential to get DB access;
+3. Change listening port of recsys service (src/recsys/app.py) on any value, different from 8000 (for example, 8001),
+because port 8000 is busy by db service. Run the application.
+4. Set environment variable BOT_TOKEN for src/tg/app/app.py and run it.
+
+Service is in air!
+
+Useful links:
+- [How to set up envs in Pycharm](https://stackoverflow.com/questions/42708389/how-to-set-environment-variables-in-pycharm) 
+
