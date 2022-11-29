@@ -1,5 +1,6 @@
 import logging
 import locale
+import os
 
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery, Message, ParseMode
 from aiogram.utils.callback_data import CallbackData
@@ -17,8 +18,8 @@ _logger = logging.getLogger(__name__)
 action_clb = CallbackData('action_callback', 'action')
 reaction_clb = CallbackData("reaction_callback", "score", "city_id")
 
-RECSYS_ADDRESS = RECSYS_URL+":"+RECSYS_PORT
-DB_ADDRESS = DB_URL+":"+DB_PORT
+RECSYS_ADDRESS = "http://"+RECSYS_URL+":"+RECSYS_PORT
+DB_ADDRESS = "http://"+DB_URL+":"+DB_PORT
 
 
 def init_bot():
@@ -73,7 +74,11 @@ async def show_city(query: CallbackQuery):
             query.answer("Упс.. не смог сохранить результат")
             _logger.error("Can not save reaction")
 
-    r = requests.get(RECSYS_ADDRESS+"/recommendation")
+    try:
+        r = requests.get(RECSYS_ADDRESS+"/recommendation")
+    except Exception as err:
+        _logger.error(repr(err))
+        raise err
     if r.status_code != 200:
         bot.send_message(query.from_user.id, text="Упс... Что-то пошло не так. Попробуйте зайти позднее")
         _logger.error("Recommendation service did not response properly")

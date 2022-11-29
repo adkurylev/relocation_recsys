@@ -1,7 +1,7 @@
 FROM python:3.9
 
-COPY tg /app
+COPY app /app
 WORKDIR /app
-RUN pip install requrements.txt
+RUN pip install -r requirements.txt
 
 CMD ["python", "app.py"]
